@@ -1,0 +1,1501 @@
+InspectionID,AssetID,InspectionDate,ThicknessMM,CorrosionRate,Result,Inspector
+1,V-501,2025-01-29,78,0.5,Fail,Inspector A
+2,V-501,2024-05-26,78,0.5,Fail, inspector a 
+3,P-101,2024-11-26,101,,pass,Inspector C
+4,V-501,2024-07-11,101,,pass,Inspector B
+5,TK-401,2025-04-09,95,err,pass,Inspector A
+6,V-501,2024-10-13,101,1.1,PASS,Inspector B
+7,C-201,2024-09-18,,err,pass,Inspector A
+8,C-201,2025-11-15,101,1.1,Pass,Inspector C
+9,V-501,2025-03-12,78,err,Fail,Inspector A
+10,HX-301,2024-08-20,78,0.2,,Inspector C
+11,C-201,2024-05-09,95,,pass,Inspector A
+12,P-102,2025-05-31,,err,Fail,Inspector B
+13,P-102,2025-11-27,78,0.5,PASS,Inspector B
+14,TK-401,2025-07-30,101,0.2,,Inspector C
+15,P-102,2025-07-06,95 ,err,Fail,Inspector C
+16,P-101,2024-06-11,95 ,0.5,,Inspector B
+17,TK-401,2024-06-04,101,,Fail,Inspector C
+18,HX-301,2024-02-20,95,,, inspector a 
+19,HX-301,2025-05-02,95,0.5,PASS,Inspector A
+20,C-201,2024-03-17,95 ,err,PASS,Inspector B
+21,TK-401,2025-09-19,78,0.2,pass,Inspector B
+22,HX-301,2024-05-27,82,0.5,pass,Inspector B
+23,HX-301,2025-10-23,,err,Fail,Inspector B
+24,P-101,2024-12-24,82,1.1,Fail, inspector a 
+25,V-501,2024-05-06,95 ,err,Fail,Inspector B
+26,P-102,2025-03-30,95 ,1.1,PASS,Inspector A
+27,P-101,2025-10-14,101,1.1,,Inspector A
+28,TK-401,2025-10-05,,0.5,pass,Inspector C
+29,TK-401,2024-05-07,95 ,err,pass,Inspector B
+30,V-501,2024-03-13,95,1.1,Pass, inspector a 
+31,P-101,2024-09-18,95 ,,pass,Inspector B
+32,V-501,2025-12-27,,1.1,Fail,Inspector A
+33,V-501,2024-03-31,101,err,PASS,Inspector B
+34,HX-301,2025-11-11,95 ,,pass,Inspector A
+35,P-101,2025-10-15,95,1.1,PASS,Inspector C
+36,V-501,2025-03-05,95,1.1,Pass,Inspector A
+37,V-501,2024-04-13,,0.5,, inspector a 
+38,TK-401,2024-08-14,,1.1,Pass, inspector a 
+39,TK-401,2025-07-28,101,,, inspector a 
+40,TK-401,2024-02-13,78,err,Pass,Inspector A
+41,P-102,2024-04-30,95,err,, inspector a 
+42,V-501,2025-02-07,95 ,0.2,PASS, inspector a 
+43,TK-401,2025-04-16,101,0.2,pass, inspector a 
+44,P-101,2025-11-16,82,err,Fail,Inspector A
+45,C-201,2025-10-07,78,1.1,pass,Inspector A
+46,C-201,2025-04-12,95,1.1,PASS,Inspector B
+47,HX-301,2024-10-10,78,1.1,pass,Inspector C
+48,P-102,2024-06-13,101,err,PASS, inspector a 
+49,P-102,2024-12-22,,0.2,PASS,Inspector C
+50,TK-401,2025-09-23,95 ,0.5,PASS,Inspector C
+51,V-501,2024-04-13,78,,PASS, inspector a 
+52,P-102,2025-10-16,,0.5,PASS, inspector a 
+53,C-201,2024-12-25,,1.1,Fail,Inspector B
+54,P-101,2024-11-26,78,0.5,,Inspector C
+55,V-501,2025-06-02,95 ,err,PASS,Inspector B
+56,TK-401,2025-02-11,95 ,0.2,Fail,Inspector A
+57,V-501,2024-04-02,101,,PASS,Inspector B
+58,TK-401,2024-12-14,95,,Fail, inspector a 
+59,V-501,2024-04-16,95,err,,Inspector A
+60,P-102,2024-11-27,,0.2,Fail,Inspector B
+61,C-201,2025-11-14,78,,Fail,Inspector B
+62,P-102,2024-09-08,,0.5,Fail,Inspector A
+63,P-102,2024-10-30,78,err,pass, inspector a 
+64,TK-401,2025-02-28,101,err,Fail, inspector a 
+65,TK-401,2024-07-09,101,,, inspector a 
+66,V-501,2024-09-24,95,1.1,pass,Inspector C
+67,P-102,2025-01-08,95,err,PASS,Inspector A
+68,P-102,2025-12-10,95,0.5,,Inspector B
+69,TK-401,2024-04-08,95 ,,,Inspector C
+70,TK-401,2024-04-17,82,1.1,,Inspector B
+71,C-201,2025-04-21,101,0.2,pass, inspector a 
+72,TK-401,2025-05-24,,0.2,Fail,Inspector A
+73,HX-301,2025-07-27,101,0.2,PASS, inspector a 
+74,P-102,2025-12-24,78,1.1,Pass,Inspector C
+75,C-201,2025-08-06,95 ,0.2,, inspector a 
+76,V-501,2025-03-17,82,,Fail, inspector a 
+77,TK-401,2024-11-13,95 ,1.1,PASS,Inspector B
+78,TK-401,2025-08-06,,0.5,,Inspector C
+79,TK-401,2024-01-07,78,1.1,,Inspector A
+80,TK-401,2024-03-13,78,err,pass,Inspector B
+81,P-102,2024-07-18,101,0.5,Fail,Inspector A
+82,HX-301,2025-10-26,95 ,0.2,PASS,Inspector A
+83,HX-301,2024-04-06,101,,pass, inspector a 
+84,HX-301,2025-12-14,82,1.1,Fail,Inspector A
+85,C-201,2024-11-14,82,,PASS, inspector a 
+86,P-102,2024-04-02,95,,Fail,Inspector B
+87,V-501,2024-12-25,95 ,0.2,PASS, inspector a 
+88,TK-401,2024-04-06,95,0.2,,Inspector A
+89,P-101,2025-07-24,95 ,1.1,Pass,Inspector B
+90,TK-401,2024-01-02,78,0.2,PASS, inspector a 
+91,P-101,2024-11-09,101,err,PASS,Inspector A
+92,P-102,2024-06-25,95 ,err,pass,Inspector B
+93,P-102,2025-07-02,95,0.2,Fail,Inspector C
+94,P-102,2025-08-10,,0.5,,Inspector B
+95,P-101,2025-03-31,101,0.2,,Inspector A
+96,C-201,2024-11-15,78,1.1,Fail,Inspector B
+97,HX-301,2024-04-12,82,err,Fail,Inspector C
+98,V-501,2025-04-10,101,,pass,Inspector A
+99,TK-401,2025-11-15,78,1.1,Fail,Inspector C
+100,P-102,2024-05-24,,0.5,pass,Inspector A
+101,P-101,2025-01-01,,err,Pass,Inspector A
+102,V-501,2025-11-10,95,err,, inspector a 
+103,V-501,2025-07-13,82,1.1,PASS,Inspector B
+104,P-102,2025-04-03,95,,pass, inspector a 
+105,P-101,2025-01-21,,0.2,pass,Inspector A
+106,TK-401,2024-11-25,,err,pass,Inspector C
+107,C-201,2025-05-24,95 ,0.2,,Inspector A
+108,P-101,2024-07-11,95,err,,Inspector B
+109,C-201,2025-10-18,95 ,0.2,,Inspector A
+110,C-201,2024-02-18,,0.5,PASS,Inspector A
+111,HX-301,2025-12-01,95 ,err,,Inspector B
+112,C-201,2025-06-04,95 ,0.2,Fail,Inspector A
+113,P-102,2025-04-13,82,1.1,Pass,Inspector B
+114,P-102,2025-05-22,101,err,Pass,Inspector A
+115,P-102,2025-01-25,95 ,0.2,PASS,Inspector A
+116,V-501,2024-09-03,95,0.5,pass,Inspector B
+117,HX-301,2025-01-15,78,0.5,Fail,Inspector B
+118,V-501,2025-09-28,95,,,Inspector C
+119,V-501,2024-07-28,95 ,1.1,pass,Inspector A
+120,HX-301,2025-03-01,,1.1,Fail, inspector a 
+121,TK-401,2024-09-16,78,,Pass, inspector a 
+122,V-501,2024-05-11,95 ,0.5,Pass,Inspector A
+123,P-102,2024-04-28,,0.2,Fail,Inspector C
+124,V-501,2024-06-20,95,,PASS,Inspector C
+125,TK-401,2024-10-18,95,0.2,Pass, inspector a 
+126,P-101,2024-07-25,101,,Fail,Inspector B
+127,P-101,2025-06-14,,,Pass,Inspector A
+128,P-101,2024-08-22,,0.5,Pass,Inspector A
+129,HX-301,2024-09-04,101,1.1,pass,Inspector B
+130,TK-401,2025-03-28,78,err,Fail,Inspector B
+131,P-101,2024-11-21,101,0.2,Fail,Inspector C
+132,P-102,2024-09-13,95,,Fail,Inspector A
+133,HX-301,2025-02-04,82,1.1,,Inspector A
+134,P-102,2024-08-18,95 ,0.5,PASS, inspector a 
+135,HX-301,2024-01-26,78,0.5,,Inspector C
+136,P-102,2025-07-24,82,err,PASS,Inspector A
+137,V-501,2024-04-24,78,,,Inspector A
+138,V-501,2025-09-25,82,1.1,PASS,Inspector A
+139,P-101,2024-05-26,95 ,0.5,Pass, inspector a 
+140,TK-401,2024-01-04,78,,,Inspector A
+141,V-501,2024-08-17,78,err,,Inspector A
+142,V-501,2024-01-21,,err,pass,Inspector C
+143,TK-401,2025-12-03,,,Fail, inspector a 
+144,C-201,2025-09-19,95,,pass,Inspector B
+145,TK-401,2025-04-10,95,0.5,Fail,Inspector C
+146,V-501,2025-10-14,82,,PASS,Inspector B
+147,V-501,2025-01-11,78,,PASS,Inspector B
+148,HX-301,2024-02-13,,err,Fail, inspector a 
+149,V-501,2024-05-08,95,0.5,pass, inspector a 
+150,HX-301,2025-03-03,95 ,,pass, inspector a 
+151,C-201,2025-04-19,95,1.1,pass,Inspector B
+152,P-102,2025-06-26,82,0.5,Fail,Inspector B
+153,TK-401,2025-11-06,95,,, inspector a 
+154,V-501,2025-01-18,95,0.5,pass,Inspector B
+155,P-101,2025-04-26,101,,PASS, inspector a 
+156,P-102,2024-02-22,82,1.1,,Inspector B
+157,HX-301,2025-11-06,101,,Fail, inspector a 
+158,V-501,2024-01-25,82,,,Inspector B
+159,V-501,2024-10-06,95 ,err,Fail, inspector a 
+160,P-102,2025-08-11,82,,PASS, inspector a 
+161,V-501,2024-09-08,82,,PASS,Inspector A
+162,P-101,2025-11-23,78,0.2,Pass,Inspector A
+163,C-201,2024-02-24,78,1.1,PASS,Inspector B
+164,P-102,2024-06-03,95,0.2,PASS,Inspector C
+165,HX-301,2025-08-20,,1.1,Fail,Inspector C
+166,P-101,2024-11-06,101,0.5,Fail,Inspector B
+167,P-101,2025-03-01,101,err,pass,Inspector B
+168,TK-401,2025-07-29,95 ,,PASS,Inspector B
+169,V-501,2024-04-26,82,,Pass,Inspector A
+170,HX-301,2024-05-18,,,pass,Inspector B
+171,TK-401,2024-01-21,95 ,1.1,pass,Inspector B
+172,P-101,2025-04-03,,err,PASS,Inspector C
+173,C-201,2024-03-28,78,0.5,Fail,Inspector C
+174,HX-301,2025-11-24,82,0.2,Fail,Inspector C
+175,V-501,2024-10-26,78,1.1,, inspector a 
+176,TK-401,2024-01-17,101,,Fail,Inspector C
+177,P-102,2024-09-15,101,1.1,,Inspector A
+178,C-201,2025-05-16,82,0.2,Fail,Inspector C
+179,HX-301,2024-09-26,,1.1,Pass,Inspector C
+180,HX-301,2025-11-03,95 ,0.2,PASS,Inspector A
+181,TK-401,2024-05-13,78,err,Pass,Inspector C
+182,P-102,2025-01-24,,,pass,Inspector A
+183,V-501,2025-12-12,95,,PASS,Inspector C
+184,HX-301,2025-06-08,,1.1,Fail,Inspector C
+185,TK-401,2024-09-24,82,,PASS,Inspector C
+186,HX-301,2024-03-26,95 ,0.2,PASS,Inspector A
+187,P-102,2024-01-24,78,0.5,Pass,Inspector B
+188,P-101,2025-01-17,82,err,Fail,Inspector A
+189,P-101,2024-03-18,95 ,0.2,PASS,Inspector A
+190,TK-401,2024-06-08,95 ,,PASS,Inspector A
+191,P-101,2025-09-19,78,0.5,Fail,Inspector A
+192,P-101,2024-07-09,95 ,0.2,Pass, inspector a 
+193,P-102,2025-12-03,82,0.2,Pass, inspector a 
+194,V-501,2024-11-24,101,0.5,pass,Inspector B
+195,HX-301,2025-12-26,101,0.5,pass,Inspector C
+196,TK-401,2025-11-23,78,,Fail,Inspector A
+197,P-102,2024-03-22,82,1.1,Fail,Inspector B
+198,P-101,2025-12-17,95 ,0.2,Fail,Inspector B
+199,P-102,2024-11-25,82,,,Inspector C
+200,HX-301,2025-09-07,101,1.1,Fail, inspector a 
+201,C-201,2024-09-13,95 ,0.5,,Inspector A
+202,V-501,2025-11-01,95,1.1,Fail,Inspector A
+203,P-101,2024-03-04,,1.1,Pass, inspector a 
+204,V-501,2024-03-22,95 ,,Pass,Inspector A
+205,TK-401,2024-11-22,95,err,Pass,Inspector C
+206,HX-301,2024-11-22,95,,PASS, inspector a 
+207,HX-301,2024-11-03,95,err,Fail,Inspector B
+208,P-102,2025-08-24,78,1.1,pass, inspector a 
+209,C-201,2025-04-17,,,pass, inspector a 
+210,P-102,2024-06-05,95 ,,pass,Inspector A
+211,C-201,2024-05-22,,0.5,pass,Inspector C
+212,HX-301,2024-01-15,95 ,0.5,Fail,Inspector B
+213,P-101,2024-08-10,78,,pass,Inspector B
+214,C-201,2024-10-04,82,0.2,pass, inspector a 
+215,C-201,2024-06-11,101,1.1,Fail,Inspector B
+216,TK-401,2025-05-13,95 ,,pass, inspector a 
+217,HX-301,2024-06-12,95 ,0.2,PASS,Inspector A
+218,C-201,2024-03-09,95 ,,,Inspector C
+219,P-102,2024-05-24,101,,Fail, inspector a 
+220,P-101,2025-05-17,95,0.5,PASS,Inspector C
+221,TK-401,2025-12-01,,err,Pass,Inspector B
+222,C-201,2025-06-26,95,1.1,Fail,Inspector C
+223,HX-301,2025-08-01,78,0.2,pass,Inspector C
+224,P-102,2025-03-03,82,1.1,Fail,Inspector C
+225,HX-301,2025-10-11,95,err,PASS,Inspector C
+226,P-102,2025-12-16,82,1.1,,Inspector B
+227,TK-401,2025-12-26,101,0.5,Fail, inspector a 
+228,HX-301,2025-07-30,78,1.1,,Inspector A
+229,P-102,2025-01-28,101,1.1,Pass, inspector a 
+230,TK-401,2025-04-18,95 ,1.1,Pass, inspector a 
+231,P-102,2025-02-02,95,0.5,PASS,Inspector A
+232,P-102,2025-04-30,82,0.2,PASS,Inspector C
+233,HX-301,2025-09-27,101,0.5,PASS,Inspector C
+234,C-201,2025-05-11,101,err,Fail,Inspector B
+235,TK-401,2025-09-03,78,1.1,Pass,Inspector B
+236,TK-401,2025-06-20,95,0.5,pass, inspector a 
+237,P-101,2025-12-18,95,1.1,Fail,Inspector B
+238,P-101,2024-10-30,78,,Pass,Inspector C
+239,P-102,2025-04-21,,,,Inspector B
+240,HX-301,2025-08-31,95,0.2,PASS, inspector a 
+241,P-102,2024-10-09,95 ,err,pass,Inspector C
+242,TK-401,2024-06-15,82,1.1,Pass,Inspector A
+243,C-201,2024-02-23,101,,PASS,Inspector B
+244,V-501,2024-11-18,,err,Pass, inspector a 
+245,C-201,2025-10-23,,0.5,PASS,Inspector A
+246,C-201,2025-10-21,95,err,,Inspector A
+247,P-101,2025-06-07,95 ,0.5,pass,Inspector A
+248,P-102,2024-03-10,82,0.2,,Inspector B
+249,P-102,2025-12-31,78,1.1,PASS,Inspector C
+250,HX-301,2024-03-24,95,0.2,pass, inspector a 
+251,P-101,2025-07-12,101,,pass,Inspector B
+252,P-101,2025-07-15,82,,Fail,Inspector A
+253,P-102,2024-09-24,82,0.2,,Inspector A
+254,V-501,2024-02-23,95 ,0.5,pass,Inspector A
+255,P-102,2024-02-13,82,0.5,Fail,Inspector C
+256,HX-301,2024-11-26,95 ,,Pass,Inspector C
+257,P-101,2025-05-19,95 ,,,Inspector A
+258,P-102,2024-02-11,101,0.2,Fail,Inspector B
+259,HX-301,2025-08-19,78,1.1,Pass,Inspector C
+260,P-102,2025-06-05,,0.5,Fail,Inspector A
+261,V-501,2025-10-04,101,1.1,PASS,Inspector C
+262,HX-301,2025-06-07,82,0.5,,Inspector C
+263,P-102,2024-12-08,95,1.1,pass,Inspector A
+264,C-201,2025-10-28,,0.2,pass, inspector a 
+265,P-102,2024-07-28,78,0.2,pass,Inspector A
+266,P-102,2024-07-29,101,1.1,Fail,Inspector C
+267,HX-301,2025-01-04,78,0.5,,Inspector C
+268,TK-401,2024-08-10,78,1.1,Pass,Inspector B
+269,C-201,2024-07-04,82,,pass,Inspector C
+270,HX-301,2025-04-13,101,0.5,pass, inspector a 
+271,TK-401,2025-07-28,95,0.5,Pass,Inspector A
+272,P-101,2024-01-01,101,0.2,Pass,Inspector C
+273,C-201,2024-01-01,,,,Inspector B
+274,P-101,2024-04-09,95,0.5,Fail, inspector a 
+275,P-101,2025-01-16,95,,Pass,Inspector C
+276,P-101,2024-02-05,95,0.5,PASS, inspector a 
+277,P-101,2024-07-28,95 ,0.2,pass,Inspector B
+278,P-101,2024-01-15,78,0.5,pass,Inspector C
+279,P-101,2024-10-03,95 ,err,pass,Inspector A
+280,P-102,2025-12-09,82,0.2,pass, inspector a 
+281,P-101,2024-01-31,,,pass, inspector a 
+282,P-101,2024-06-28,101,0.2,Pass,Inspector C
+283,C-201,2025-12-27,95 ,,Fail,Inspector C
+284,V-501,2024-01-25,95,0.5,Fail, inspector a 
+285,V-501,2024-01-02,78,err,pass, inspector a 
+286,V-501,2024-08-25,95 ,0.2,PASS,Inspector C
+287,TK-401,2024-03-31,95,,pass,Inspector B
+288,V-501,2025-01-17,95,err,,Inspector B
+289,V-501,2024-11-24,95 ,1.1,pass,Inspector B
+290,HX-301,2025-08-17,95,,PASS,Inspector C
+291,V-501,2024-05-31,,err,pass,Inspector C
+292,P-101,2025-03-18,101,1.1,Fail,Inspector C
+293,V-501,2025-01-02,,,,Inspector B
+294,C-201,2024-02-13,101,0.5,,Inspector C
+295,V-501,2025-07-07,95 ,0.5,,Inspector B
+296,V-501,2024-07-29,,0.2,pass,Inspector A
+297,TK-401,2025-05-28,78,err,Pass,Inspector A
+298,TK-401,2024-09-17,95 ,0.5,Fail,Inspector C
+299,P-101,2025-05-15,95,1.1,, inspector a 
+300,V-501,2025-06-19,,0.5,,Inspector C
+301,V-501,2025-02-21,78,0.5,pass,Inspector B
+302,P-102,2025-12-11,95 ,0.2,,Inspector A
+303,P-102,2025-05-22,78,1.1,Fail, inspector a 
+304,P-102,2024-11-06,101,0.2,Fail,Inspector A
+305,P-101,2024-01-17,95,0.2,Fail,Inspector B
+306,P-101,2025-11-27,78,1.1,pass,Inspector A
+307,C-201,2025-03-08,95 ,,Pass,Inspector C
+308,HX-301,2024-12-17,95,0.5,PASS, inspector a 
+309,TK-401,2025-09-26,,err,,Inspector A
+310,HX-301,2025-11-26,78,,PASS,Inspector C
+311,C-201,2024-02-01,95 ,,pass,Inspector A
+312,V-501,2025-03-08,101,err,PASS, inspector a 
+313,HX-301,2024-01-28,78,,Pass, inspector a 
+314,TK-401,2024-09-15,78,0.2,Fail,Inspector A
+315,HX-301,2025-04-10,95 ,1.1,Fail, inspector a 
+316,C-201,2024-02-05,95,err,pass,Inspector B
+317,HX-301,2025-09-20,78,0.2,Fail,Inspector A
+318,HX-301,2025-06-02,78,err,Fail, inspector a 
+319,V-501,2024-10-08,101,,,Inspector A
+320,TK-401,2024-09-16,78,err,pass,Inspector B
+321,C-201,2025-04-07,82,0.2,PASS,Inspector C
+322,P-101,2025-03-12,95 ,0.5,Pass,Inspector B
+323,HX-301,2025-05-08,82,0.2,pass,Inspector B
+324,P-101,2025-01-20,95,0.5,Fail,Inspector C
+325,TK-401,2025-11-30,,0.5,pass,Inspector A
+326,P-102,2024-04-13,82,0.5,,Inspector A
+327,HX-301,2025-03-24,95,,Pass,Inspector C
+328,TK-401,2025-10-12,78,,pass,Inspector A
+329,HX-301,2024-10-12,101,,Pass,Inspector A
+330,C-201,2024-03-30,95 ,1.1,pass, inspector a 
+331,P-102,2025-06-03,82,0.2,Pass,Inspector B
+332,TK-401,2024-03-29,82,0.5,pass,Inspector C
+333,C-201,2025-07-24,,0.2,Fail, inspector a 
+334,TK-401,2024-04-28,78,0.5,Fail,Inspector B
+335,P-102,2024-11-03,95 ,,Pass,Inspector C
+336,TK-401,2024-03-02,78,0.2,,Inspector C
+337,TK-401,2025-08-22,78,1.1,Fail,Inspector C
+338,HX-301,2024-09-06,82,0.5,pass, inspector a 
+339,P-102,2025-05-05,78,0.5,pass,Inspector A
+340,V-501,2024-05-29,82,err,Fail,Inspector A
+341,TK-401,2025-05-04,78,err,Fail,Inspector B
+342,HX-301,2025-10-03,95 ,1.1,Fail,Inspector C
+343,P-101,2025-02-20,,0.2,PASS, inspector a 
+344,P-102,2024-01-29,95 ,1.1,pass, inspector a 
+345,P-102,2025-09-12,95 ,0.5,pass, inspector a 
+346,V-501,2025-10-23,82,0.5,,Inspector C
+347,P-101,2025-05-24,,err,Pass, inspector a 
+348,TK-401,2024-03-08,78,0.5,Pass,Inspector C
+349,HX-301,2024-10-11,95,,PASS,Inspector C
+350,TK-401,2025-07-02,95,1.1,pass, inspector a 
+351,V-501,2025-01-30,101,err,,Inspector B
+352,C-201,2025-04-25,78,,PASS,Inspector A
+353,V-501,2024-09-14,95,1.1,PASS,Inspector B
+354,C-201,2024-11-16,82,err,Fail,Inspector C
+355,P-102,2024-11-09,95,err,pass,Inspector C
+356,TK-401,2024-09-27,,0.5,,Inspector B
+357,C-201,2025-12-05,82,1.1,,Inspector C
+358,HX-301,2024-07-28,101,err,Fail,Inspector A
+359,V-501,2024-10-25,82,0.5,,Inspector C
+360,V-501,2024-07-06,,1.1,Fail, inspector a 
+361,V-501,2025-05-10,95,err,pass,Inspector C
+362,C-201,2024-05-29,101,0.2,PASS,Inspector A
+363,TK-401,2025-01-20,,0.2,Pass,Inspector B
+364,HX-301,2024-09-17,,err,,Inspector C
+365,TK-401,2025-06-07,,0.5,PASS,Inspector A
+366,V-501,2025-03-13,,err,Pass, inspector a 
+367,HX-301,2025-03-23,95,0.2,Fail,Inspector B
+368,C-201,2024-05-05,78,0.2,Pass,Inspector C
+369,TK-401,2024-04-20,101,1.1,Fail,Inspector A
+370,HX-301,2025-12-04,82,0.2,,Inspector A
+371,P-101,2024-01-11,95,err,PASS,Inspector C
+372,P-102,2025-03-16,82,0.5,,Inspector C
+373,C-201,2025-07-19,82,0.5,Pass,Inspector C
+374,P-102,2024-08-13,,0.5,,Inspector A
+375,P-101,2024-06-13,101,err,PASS, inspector a 
+376,P-101,2024-05-07,82,,Fail,Inspector B
+377,TK-401,2025-04-15,82,0.5,Fail,Inspector C
+378,P-101,2024-04-19,82,1.1,pass, inspector a 
+379,P-102,2025-04-01,82,0.2,Pass, inspector a 
+380,HX-301,2025-12-30,,0.5,pass, inspector a 
+381,TK-401,2024-01-24,95,0.5,pass, inspector a 
+382,C-201,2025-06-20,95,0.2,pass, inspector a 
+383,TK-401,2025-03-28,82,1.1,Fail,Inspector A
+384,V-501,2025-09-07,95 ,,Fail, inspector a 
+385,P-102,2024-07-31,95,1.1,pass,Inspector C
+386,V-501,2024-09-11,95,0.5,pass, inspector a 
+387,V-501,2024-01-25,101,0.5,Pass, inspector a 
+388,P-101,2025-12-31,,err,PASS,Inspector C
+389,P-101,2025-01-25,,,pass, inspector a 
+390,HX-301,2024-04-01,95,1.1,Fail,Inspector C
+391,C-201,2025-01-10,,0.5,Fail,Inspector B
+392,V-501,2025-08-22,101,err,,Inspector B
+393,HX-301,2024-02-07,95,0.2,Fail,Inspector A
+394,P-102,2025-12-25,78,err,,Inspector A
+395,P-101,2024-09-13,101,1.1,pass,Inspector B
+396,P-102,2024-10-27,,1.1,Fail,Inspector B
+397,C-201,2025-02-23,82,err,Pass,Inspector B
+398,TK-401,2024-04-04,78,err,Fail,Inspector C
+399,HX-301,2025-07-15,,0.5,Fail,Inspector A
+400,TK-401,2024-07-19,95 ,0.2,Pass,Inspector A
+401,P-102,2024-10-02,101,0.2,pass,Inspector C
+402,P-102,2024-07-02,101,0.5,Fail,Inspector A
+403,P-102,2024-11-29,95,err,Pass,Inspector A
+404,P-102,2025-02-07,82,0.2,pass,Inspector B
+405,P-102,2024-05-15,101,1.1,,Inspector C
+406,P-102,2025-04-18,,0.5,Pass,Inspector B
+407,V-501,2024-06-14,101,0.2,Pass, inspector a 
+408,P-101,2024-05-19,95,,, inspector a 
+409,HX-301,2025-11-24,101,err,pass, inspector a 
+410,TK-401,2025-10-24,95,err,, inspector a 
+411,TK-401,2024-09-14,,0.5,, inspector a 
+412,P-101,2024-05-09,82,0.2,,Inspector C
+413,P-101,2024-11-01,101,,pass, inspector a 
+414,C-201,2024-11-02,78,1.1,pass,Inspector B
+415,P-102,2024-01-17,,0.5,pass,Inspector B
+416,C-201,2025-10-26,,0.5,Fail,Inspector A
+417,HX-301,2024-08-20,95,,pass, inspector a 
+418,HX-301,2025-12-30,95,0.5,pass,Inspector B
+419,P-101,2025-03-01,82,0.5,Pass,Inspector C
+420,P-101,2025-01-18,95,,pass, inspector a 
+421,TK-401,2024-03-20,95,1.1,, inspector a 
+422,HX-301,2024-02-11,78,1.1,PASS,Inspector B
+423,TK-401,2024-11-13,82,0.2,Pass,Inspector B
+424,TK-401,2025-12-29,95,0.2,Pass,Inspector B
+425,TK-401,2025-10-07,95,0.2,pass, inspector a 
+426,TK-401,2024-12-08,,1.1,,Inspector C
+427,C-201,2024-10-18,78,err,,Inspector A
+428,HX-301,2025-03-24,,err,Pass,Inspector A
+429,HX-301,2024-06-06,95,,PASS,Inspector B
+430,P-102,2024-05-25,78,err,pass,Inspector C
+431,P-102,2025-02-07,78,0.2,PASS,Inspector A
+432,P-102,2024-05-16,,err,Fail, inspector a 
+433,HX-301,2024-06-04,101,err,PASS,Inspector B
+434,P-101,2024-01-01,82,0.2,PASS, inspector a 
+435,P-102,2024-03-08,,0.5,pass,Inspector A
+436,V-501,2024-03-22,,1.1,,Inspector C
+437,C-201,2025-04-25,101,err,,Inspector C
+438,V-501,2025-10-08,95,err,Fail,Inspector C
+439,P-102,2025-08-31,82,0.2,pass, inspector a 
+440,C-201,2024-10-05,101,1.1,pass, inspector a 
+441,TK-401,2024-02-22,95,1.1,Pass,Inspector B
+442,P-102,2025-07-22,82,0.5,pass,Inspector B
+443,V-501,2024-04-10,101,err,PASS, inspector a 
+444,HX-301,2025-02-13,101,1.1,PASS,Inspector A
+445,P-102,2024-09-05,101,,Pass,Inspector C
+446,HX-301,2024-02-28,,,Fail, inspector a 
+447,P-101,2025-04-29,95,1.1,Pass,Inspector C
+448,HX-301,2024-08-29,,,,Inspector B
+449,HX-301,2025-02-19,82,1.1,Fail,Inspector B
+450,P-102,2024-12-10,101,1.1,, inspector a 
+451,P-101,2024-03-25,78,0.2,Pass,Inspector B
+452,HX-301,2025-07-07,,0.2,Fail,Inspector A
+453,HX-301,2024-01-03,82,0.2,Fail,Inspector C
+454,V-501,2025-01-10,95 ,1.1,,Inspector A
+455,P-102,2024-02-11,95,1.1,Pass,Inspector A
+456,P-101,2025-08-19,78,err,Pass,Inspector B
+457,HX-301,2024-06-23,,0.2,PASS,Inspector C
+458,TK-401,2025-09-22,78,err,PASS,Inspector B
+459,HX-301,2024-03-07,101,1.1,Fail,Inspector A
+460,TK-401,2025-05-23,82,1.1,Pass, inspector a 
+461,V-501,2024-12-12,82,,pass,Inspector C
+462,C-201,2025-06-05,95,,pass,Inspector B
+463,V-501,2024-11-12,95,0.5,Fail, inspector a 
+464,V-501,2024-06-01,82,0.2,Pass,Inspector A
+465,P-101,2025-08-24,82,0.2,pass,Inspector B
+466,V-501,2024-06-01,78,1.1,PASS,Inspector C
+467,P-102,2025-08-16,95 ,,pass, inspector a 
+468,V-501,2024-05-05,95 ,err,,Inspector C
+469,P-102,2025-12-27,,0.2,PASS,Inspector B
+470,P-102,2025-02-04,95,0.2,Pass,Inspector A
+471,HX-301,2024-09-15,82,,pass, inspector a 
+472,C-201,2025-12-27,,0.5,PASS, inspector a 
+473,C-201,2025-11-05,101,0.5,Pass,Inspector B
+474,HX-301,2024-09-13,78,,PASS,Inspector B
+475,P-102,2024-02-13,82,err,, inspector a 
+476,P-102,2024-10-11,95 ,0.5,pass,Inspector A
+477,V-501,2024-01-10,95,1.1,,Inspector C
+478,P-101,2024-12-11,78,,,Inspector B
+479,P-102,2024-08-04,95,err,PASS, inspector a 
+480,TK-401,2025-06-25,101,err,Fail, inspector a 
+481,HX-301,2024-02-10,95 ,err,,Inspector C
+482,HX-301,2025-07-05,78,1.1,PASS,Inspector A
+483,TK-401,2025-02-21,95 ,0.2,pass, inspector a 
+484,TK-401,2025-04-19,101,0.5,PASS,Inspector B
+485,C-201,2025-04-05,95,0.2,Fail,Inspector C
+486,C-201,2025-02-08,78,err,Fail,Inspector A
+487,HX-301,2024-08-15,82,,Pass, inspector a 
+488,P-101,2024-02-18,95,err,, inspector a 
+489,TK-401,2024-01-17,95 ,1.1,,Inspector A
+490,TK-401,2025-05-23,82,err,,Inspector C
+491,P-102,2024-04-28,,err,PASS,Inspector B
+492,V-501,2025-07-12,82,0.2,pass,Inspector A
+493,V-501,2024-12-02,82,,Pass,Inspector A
+494,V-501,2024-05-12,95 ,1.1,Fail,Inspector C
+495,C-201,2025-11-18,,0.5,pass,Inspector B
+496,C-201,2024-06-16,78,1.1,PASS,Inspector A
+497,P-102,2024-03-19,78,0.2,Fail,Inspector A
+498,P-102,2024-10-03,78,,PASS,Inspector A
+499,TK-401,2025-05-27,,err,Pass, inspector a 
+500,TK-401,2025-11-15,95,0.2,PASS,Inspector A
+501,P-102,2024-12-27,,0.5,,Inspector C
+502,TK-401,2024-01-19,78,0.2,Fail,Inspector B
+503,P-102,2024-12-16,101,err,Fail, inspector a 
+504,C-201,2025-10-08,78,1.1,pass, inspector a 
+505,TK-401,2024-04-16,,0.5,Fail,Inspector B
+506,V-501,2025-09-27,,err,Pass,Inspector B
+507,HX-301,2025-11-03,101,,pass,Inspector C
+508,C-201,2025-10-19,82,0.2,Pass, inspector a 
+509,P-101,2024-07-11,101,1.1,Pass,Inspector C
+510,C-201,2025-10-26,,0.2,PASS, inspector a 
+511,P-102,2024-03-28,78,err,,Inspector A
+512,P-102,2025-08-30,,,,Inspector C
+513,TK-401,2024-05-02,78,1.1,Fail,Inspector C
+514,HX-301,2025-07-03,95,0.2,Pass,Inspector A
+515,V-501,2024-11-03,82,1.1,pass,Inspector B
+516,C-201,2024-10-14,,0.2,,Inspector C
+517,HX-301,2024-03-17,95,1.1,pass,Inspector A
+518,C-201,2024-01-27,95,0.5,Pass,Inspector B
+519,TK-401,2025-06-21,101,0.2,PASS,Inspector A
+520,C-201,2024-04-07,95,1.1,Pass,Inspector B
+521,P-102,2025-08-13,101,0.2,Fail,Inspector A
+522,C-201,2024-10-10,101,err,Pass,Inspector C
+523,V-501,2025-07-19,95,0.2,pass,Inspector A
+524,HX-301,2024-11-15,78,1.1,PASS,Inspector A
+525,P-101,2024-05-20,78,err,Pass,Inspector A
+526,P-101,2025-05-03,,1.1,pass,Inspector A
+527,P-102,2024-09-27,101,err,Fail,Inspector A
+528,P-102,2024-12-08,82,err,Pass,Inspector A
+529,P-102,2025-04-26,95 ,0.5,Fail,Inspector B
+530,P-101,2025-02-21,95 ,err,PASS,Inspector B
+531,TK-401,2025-05-19,82,0.2,pass,Inspector B
+532,V-501,2025-09-19,,0.5,,Inspector C
+533,P-102,2024-12-18,,err,pass,Inspector C
+534,P-102,2024-10-02,101,0.2,pass,Inspector C
+535,TK-401,2025-10-25,,0.2,Pass, inspector a 
+536,P-102,2025-08-27,95 ,1.1,Fail,Inspector B
+537,TK-401,2025-10-18,78,0.5,Fail,Inspector A
+538,P-102,2024-08-24,95 ,0.2,Pass, inspector a 
+539,P-102,2024-05-16,95,0.2,,Inspector A
+540,P-102,2025-10-29,95 ,0.2,Pass, inspector a 
+541,C-201,2024-04-19,82,,Fail,Inspector B
+542,P-101,2025-10-25,95,1.1,pass, inspector a 
+543,TK-401,2025-11-06,95 ,1.1,pass,Inspector B
+544,P-102,2025-10-12,82,,PASS,Inspector B
+545,V-501,2025-11-12,82,,pass,Inspector C
+546,P-101,2025-03-23,95,0.2,pass, inspector a 
+547,P-101,2024-06-11,78,,,Inspector C
+548,HX-301,2024-07-27,78,1.1,Fail,Inspector C
+549,P-102,2024-10-13,,0.2,pass,Inspector A
+550,HX-301,2025-08-23,95,1.1,Fail, inspector a 
+551,V-501,2024-07-24,95,,pass,Inspector C
+552,HX-301,2024-06-13,82,,Fail,Inspector A
+553,V-501,2024-08-28,,,Fail,Inspector B
+554,C-201,2024-04-22,95 ,1.1,,Inspector C
+555,P-101,2025-12-07,95,err,PASS, inspector a 
+556,P-101,2024-01-21,101,0.2,Fail,Inspector C
+557,P-102,2024-09-15,95 ,err,,Inspector B
+558,HX-301,2025-10-04,101,0.2,Fail,Inspector A
+559,V-501,2024-12-01,101,,,Inspector C
+560,HX-301,2024-01-02,82,0.5,Pass,Inspector C
+561,C-201,2025-03-11,95 ,1.1,,Inspector B
+562,HX-301,2025-10-05,95 ,err,,Inspector C
+563,HX-301,2024-04-08,,err,Fail,Inspector B
+564,P-101,2024-11-28,95,1.1,pass,Inspector B
+565,C-201,2025-06-29,,0.5,pass,Inspector A
+566,P-101,2025-12-07,78,err,Fail,Inspector B
+567,P-101,2025-02-24,82,,pass,Inspector A
+568,V-501,2024-04-15,101,,Fail,Inspector B
+569,P-102,2024-08-07,95,0.2,Pass,Inspector C
+570,TK-401,2024-01-12,,0.2,PASS, inspector a 
+571,P-101,2024-08-02,95,0.5,,Inspector A
+572,C-201,2024-04-05,101,err,Fail,Inspector A
+573,V-501,2025-05-02,95,err,Fail,Inspector A
+574,P-102,2025-05-16,,1.1,Pass,Inspector A
+575,TK-401,2025-05-30,82,err,PASS,Inspector A
+576,V-501,2025-03-13,95,1.1,pass,Inspector B
+577,V-501,2024-01-28,78,err,Pass,Inspector C
+578,P-102,2024-07-16,82,0.5,Pass,Inspector B
+579,P-102,2024-07-19,82,0.5,PASS, inspector a 
+580,V-501,2024-03-03,,0.5,,Inspector B
+581,P-101,2024-02-02,95 ,0.5,PASS,Inspector C
+582,HX-301,2025-12-04,82,0.2,Fail, inspector a 
+583,P-101,2025-01-22,82,1.1,Pass,Inspector B
+584,HX-301,2025-12-01,78,0.2,Fail,Inspector B
+585,P-102,2024-03-15,,0.2,pass,Inspector B
+586,P-102,2025-12-17,95,err,,Inspector C
+587,P-102,2025-04-08,101,err,,Inspector B
+588,HX-301,2025-04-04,82,err,pass,Inspector C
+589,C-201,2024-11-19,101,0.5,Pass,Inspector B
+590,C-201,2025-02-19,,err,pass,Inspector A
+591,P-101,2025-08-18,95 ,0.5,Pass,Inspector B
+592,TK-401,2025-12-18,78,err,pass, inspector a 
+593,TK-401,2025-10-27,95 ,0.5,Pass,Inspector B
+594,P-102,2025-07-05,82,0.5,Pass,Inspector A
+595,TK-401,2024-09-04,101,0.2,PASS,Inspector A
+596,C-201,2024-09-22,95,err,Fail,Inspector B
+597,HX-301,2024-02-15,,0.5,Fail,Inspector B
+598,V-501,2025-12-16,78,err,Fail, inspector a 
+599,HX-301,2024-03-14,95 ,err,Pass,Inspector C
+600,P-102,2025-04-16,95 ,1.1,PASS,Inspector A
+601,P-101,2024-02-03,78,0.2,Pass,Inspector A
+602,P-102,2024-11-26,95 ,err,Pass,Inspector A
+603,P-102,2025-12-05,,0.2,pass,Inspector C
+604,V-501,2024-02-28,95 ,err,Pass,Inspector B
+605,C-201,2024-12-27,,0.2,,Inspector C
+606,C-201,2024-10-26,82,0.2,,Inspector B
+607,V-501,2025-09-06,101,err,pass,Inspector C
+608,TK-401,2025-05-17,78,0.5,Fail,Inspector C
+609,TK-401,2025-05-28,78,1.1,pass, inspector a 
+610,TK-401,2024-02-11,,,Pass,Inspector A
+611,P-101,2025-09-05,78,1.1,Fail, inspector a 
+612,V-501,2024-12-19,95,0.2,PASS,Inspector C
+613,P-102,2025-06-26,,,,Inspector A
+614,HX-301,2024-08-29,82,1.1,,Inspector B
+615,C-201,2024-11-25,95 ,0.2,PASS,Inspector C
+616,TK-401,2024-06-23,,0.2,,Inspector A
+617,HX-301,2025-10-02,78,,Fail,Inspector B
+618,TK-401,2025-02-24,101,err,pass,Inspector C
+619,TK-401,2024-01-18,95 ,err,Fail,Inspector B
+620,P-101,2024-03-07,95,0.2,Pass, inspector a 
+621,TK-401,2024-09-15,78,err,,Inspector A
+622,V-501,2024-09-24,95 ,1.1,Fail, inspector a 
+623,P-102,2025-05-25,101,0.5,pass,Inspector B
+624,V-501,2025-06-25,78,,PASS,Inspector B
+625,V-501,2024-06-07,78,0.5,pass,Inspector C
+626,TK-401,2024-06-23,101,1.1,pass,Inspector C
+627,P-101,2024-06-11,82,,Fail,Inspector C
+628,HX-301,2025-06-25,82,0.2,PASS,Inspector C
+629,HX-301,2024-03-25,78,,PASS, inspector a 
+630,C-201,2024-06-09,95,1.1,Pass,Inspector B
+631,P-102,2025-02-16,95 ,1.1,PASS,Inspector B
+632,P-102,2024-10-27,95 ,0.2,Pass, inspector a 
+633,C-201,2025-01-21,,1.1,PASS,Inspector A
+634,V-501,2024-08-19,78,1.1,Fail,Inspector B
+635,C-201,2024-10-09,95 ,0.5,pass,Inspector A
+636,V-501,2025-11-20,95,0.2,PASS,Inspector A
+637,P-102,2024-10-25,82,0.5,Fail,Inspector C
+638,TK-401,2024-07-17,95,err,PASS,Inspector A
+639,V-501,2025-02-08,82,0.5,Pass,Inspector A
+640,V-501,2024-04-06,101,,, inspector a 
+641,TK-401,2024-05-06,78,err,Fail,Inspector B
+642,P-101,2025-08-30,95 ,0.5,pass,Inspector B
+643,HX-301,2024-05-17,95 ,1.1,Fail,Inspector A
+644,P-101,2025-02-20,95 ,0.2,Pass, inspector a 
+645,HX-301,2024-12-01,78,,, inspector a 
+646,V-501,2025-07-19,101,0.2,Pass,Inspector B
+647,P-101,2024-08-01,78,err,Pass,Inspector C
+648,P-101,2025-02-28,101,0.5,,Inspector A
+649,V-501,2024-09-07,,1.1,pass, inspector a 
+650,V-501,2024-09-27,95,err,Pass, inspector a 
+651,TK-401,2024-01-04,95 ,0.5,pass,Inspector C
+652,C-201,2025-09-16,82,0.2,Pass,Inspector C
+653,P-101,2025-09-10,78,err,,Inspector C
+654,TK-401,2024-04-21,95,0.5,Fail, inspector a 
+655,HX-301,2025-06-26,95,0.2,,Inspector B
+656,P-102,2025-02-21,82,0.5,Fail,Inspector B
+657,P-102,2024-03-16,,1.1,PASS,Inspector C
+658,P-101,2025-03-04,78,1.1,Pass,Inspector C
+659,TK-401,2024-05-13,101,,Pass,Inspector C
+660,P-101,2025-10-07,95,0.5,pass, inspector a 
+661,HX-301,2025-03-14,95 ,0.2,,Inspector A
+662,V-501,2024-04-29,82,,Pass,Inspector A
+663,P-101,2024-07-16,101,0.5,PASS, inspector a 
+664,TK-401,2025-02-11,78,0.2,pass,Inspector B
+665,HX-301,2025-12-02,78,1.1,Fail,Inspector A
+666,P-102,2024-06-28,95,1.1,PASS,Inspector A
+667,TK-401,2025-03-16,101,0.5,pass,Inspector A
+668,V-501,2025-05-12,,,,Inspector B
+669,P-102,2025-09-28,101,1.1,PASS,Inspector A
+670,P-102,2024-04-28,95,err,Pass, inspector a 
+671,C-201,2024-07-17,95,0.5,pass,Inspector B
+672,P-101,2025-02-21,82,0.5,PASS,Inspector A
+673,P-101,2024-02-24,95 ,1.1,pass,Inspector A
+674,P-101,2025-09-12,101,1.1,,Inspector A
+675,C-201,2024-10-23,101,0.5,Pass, inspector a 
+676,TK-401,2024-09-18,82,,, inspector a 
+677,TK-401,2025-10-01,,1.1,, inspector a 
+678,TK-401,2024-04-01,95,0.5,,Inspector C
+679,HX-301,2025-08-16,95 ,err,Fail,Inspector B
+680,TK-401,2024-12-04,78,1.1,Pass,Inspector C
+681,TK-401,2025-08-06,82,0.5,Fail,Inspector A
+682,P-102,2024-07-08,95,0.5,pass, inspector a 
+683,TK-401,2025-07-31,78,,,Inspector A
+684,HX-301,2025-07-25,82,,Pass, inspector a 
+685,P-101,2025-03-03,95 ,,Fail,Inspector B
+686,TK-401,2024-11-12,95 ,0.5,,Inspector B
+687,V-501,2024-11-29,95 ,err,PASS,Inspector B
+688,P-102,2025-06-16,95 ,err,Pass,Inspector C
+689,C-201,2024-01-04,,0.2,Fail, inspector a 
+690,P-101,2024-12-15,101,0.5,pass,Inspector C
+691,V-501,2025-07-11,82,,PASS,Inspector A
+692,HX-301,2025-07-17,101,,PASS, inspector a 
+693,P-101,2025-10-07,82,0.2,, inspector a 
+694,P-101,2025-03-12,95 ,0.5,Fail,Inspector C
+695,C-201,2025-08-08,78,1.1,Fail,Inspector C
+696,TK-401,2025-02-12,82,0.5,,Inspector C
+697,C-201,2025-06-05,95 ,0.2,Pass,Inspector B
+698,P-102,2025-05-04,78,0.2,, inspector a 
+699,HX-301,2025-09-06,,0.2,Pass,Inspector A
+700,TK-401,2025-01-31,82,0.2,Pass,Inspector B
+701,C-201,2025-09-18,78,0.2,Pass, inspector a 
+702,P-101,2025-06-24,101,1.1,Pass,Inspector C
+703,TK-401,2025-10-06,78,1.1,Pass, inspector a 
+704,P-102,2025-02-21,95 ,err,Fail, inspector a 
+705,HX-301,2025-10-19,95 ,0.5,Pass,Inspector C
+706,V-501,2024-08-13,95,1.1,Pass, inspector a 
+707,HX-301,2025-03-27,101,1.1,pass,Inspector B
+708,V-501,2024-02-29,,0.5,pass, inspector a 
+709,P-102,2025-11-18,101,0.5,PASS,Inspector A
+710,P-101,2025-07-22,95 ,,pass, inspector a 
+711,P-102,2024-02-18,101,err,Pass,Inspector C
+712,HX-301,2024-01-24,101,err,PASS,Inspector A
+713,P-102,2024-07-18,82,,Fail,Inspector A
+714,C-201,2024-05-15,95,0.5,Fail,Inspector C
+715,P-101,2025-02-14,,err,Pass, inspector a 
+716,P-102,2024-01-11,82,0.2,Pass,Inspector B
+717,HX-301,2024-01-01,78,0.5,pass,Inspector B
+718,V-501,2025-06-09,95,0.5,pass, inspector a 
+719,TK-401,2025-07-13,95,,Pass,Inspector B
+720,HX-301,2024-08-11,78,err,PASS,Inspector C
+721,TK-401,2024-09-27,78,0.5,,Inspector C
+722,P-102,2024-02-18,,1.1,,Inspector A
+723,HX-301,2024-04-06,95,1.1,Pass,Inspector B
+724,P-102,2025-04-07,95 ,1.1,Pass, inspector a 
+725,TK-401,2025-04-26,78,0.5,pass, inspector a 
+726,TK-401,2025-11-14,82,0.5,Pass,Inspector A
+727,V-501,2024-06-14,78,,,Inspector B
+728,V-501,2024-04-14,82,1.1,, inspector a 
+729,TK-401,2024-06-24,101,1.1,pass, inspector a 
+730,HX-301,2024-08-27,82,err,Fail,Inspector A
+731,P-102,2025-06-11,101,1.1,pass,Inspector A
+732,P-102,2024-12-12,101,,Pass, inspector a 
+733,TK-401,2025-12-20,101,,pass,Inspector A
+734,HX-301,2025-04-09,95 ,0.2,pass, inspector a 
+735,HX-301,2024-08-29,101,0.5,Pass,Inspector C
+736,HX-301,2024-01-03,101,0.5,Pass,Inspector B
+737,P-102,2024-07-03,95 ,1.1,PASS,Inspector B
+738,HX-301,2024-03-29,95 ,1.1,Pass,Inspector C
+739,HX-301,2025-07-06,78,1.1,pass,Inspector B
+740,TK-401,2024-03-15,95 ,0.5,Pass,Inspector B
+741,TK-401,2024-12-01,,,,Inspector A
+742,TK-401,2025-07-24,101,1.1,Fail, inspector a 
+743,TK-401,2025-09-30,101,1.1,,Inspector A
+744,P-102,2024-06-11,78,1.1,Pass,Inspector B
+745,TK-401,2025-11-09,,err,PASS,Inspector C
+746,P-102,2025-10-25,95,err,PASS,Inspector A
+747,P-101,2025-10-24,95,1.1,pass, inspector a 
+748,V-501,2024-02-06,95 ,,Pass,Inspector C
+749,P-102,2024-07-02,101,,pass, inspector a 
+750,P-102,2025-05-04,101,0.5,Pass, inspector a 
+751,HX-301,2024-10-08,78,err,Pass, inspector a 
+752,TK-401,2025-05-21,101,,pass,Inspector B
+753,TK-401,2025-09-30,,err,pass,Inspector B
+754,C-201,2024-05-12,101,err,Fail, inspector a 
+755,V-501,2024-02-09,101,1.1,,Inspector A
+756,V-501,2025-02-12,82,0.5,PASS,Inspector A
+757,C-201,2025-12-13,78,1.1,pass, inspector a 
+758,C-201,2025-09-26,95 ,,,Inspector A
+759,V-501,2024-02-01,78,0.5,PASS,Inspector B
+760,C-201,2024-12-16,95,1.1,Fail, inspector a 
+761,TK-401,2025-04-16,,0.5,Fail,Inspector C
+762,C-201,2025-09-18,82,0.5,Fail,Inspector C
+763,P-102,2025-02-04,82,err,,Inspector A
+764,HX-301,2024-12-14,82,1.1,Pass,Inspector C
+765,TK-401,2024-07-10,95,,Fail,Inspector C
+766,P-102,2025-02-02,101,0.5,pass,Inspector B
+767,P-102,2025-12-12,95,err,,Inspector C
+768,P-102,2024-04-14,101,0.2,, inspector a 
+769,C-201,2025-01-13,78,,,Inspector C
+770,TK-401,2025-01-30,95,0.2,,Inspector C
+771,V-501,2025-05-14,95,1.1,Fail,Inspector A
+772,C-201,2024-07-17,95 ,err,Pass,Inspector A
+773,HX-301,2024-04-25,101,,Fail,Inspector A
+774,TK-401,2024-07-22,95 ,1.1,,Inspector B
+775,P-101,2024-10-02,78,1.1,Fail, inspector a 
+776,P-101,2024-11-10,95,1.1,pass,Inspector A
+777,C-201,2024-11-30,82,0.2,Fail,Inspector B
+778,TK-401,2025-01-09,82,,pass,Inspector A
+779,HX-301,2024-08-31,,1.1,Pass,Inspector A
+780,C-201,2025-09-27,82,0.2,PASS,Inspector A
+781,C-201,2024-02-06,82,,pass,Inspector A
+782,TK-401,2025-12-13,101,,,Inspector A
+783,V-501,2025-09-11,82,,Pass,Inspector C
+784,P-102,2025-01-04,82,err,,Inspector C
+785,P-102,2025-02-15,82,1.1,, inspector a 
+786,P-101,2025-03-02,95,err,, inspector a 
+787,TK-401,2025-04-05,,1.1,PASS,Inspector B
+788,HX-301,2024-05-21,95 ,1.1,,Inspector C
+789,C-201,2025-11-16,101,1.1,, inspector a 
+790,C-201,2025-01-07,95 ,err,PASS,Inspector B
+791,P-102,2025-05-29,95,err,Pass,Inspector A
+792,HX-301,2025-12-10,95,0.2,Fail,Inspector A
+793,P-101,2024-02-10,82,1.1,PASS,Inspector B
+794,V-501,2025-08-23,82,0.2,Fail,Inspector B
+795,P-101,2025-10-20,95,1.1,Pass,Inspector B
+796,C-201,2024-01-06,95,,Pass,Inspector B
+797,V-501,2025-10-10,,err,Fail,Inspector A
+798,C-201,2024-10-17,95,err,, inspector a 
+799,TK-401,2025-01-30,101,,Fail, inspector a 
+800,P-102,2025-12-07,,,pass,Inspector C
+801,HX-301,2025-10-20,82,0.2,Fail,Inspector C
+802,V-501,2025-06-11,95 ,0.5,PASS,Inspector C
+803,P-101,2024-08-02,101,0.5,Fail,Inspector A
+804,P-102,2024-05-16,78,0.5,Fail,Inspector B
+805,P-101,2025-10-22,95 ,1.1,,Inspector A
+806,HX-301,2024-03-01,95 ,0.2,Pass,Inspector B
+807,C-201,2025-03-01,,0.5,Fail, inspector a 
+808,P-101,2024-12-19,101,0.5,pass, inspector a 
+809,V-501,2025-06-15,78,,Fail,Inspector B
+810,HX-301,2024-12-24,,1.1,PASS,Inspector C
+811,V-501,2025-07-29,95,,Fail, inspector a 
+812,TK-401,2024-06-07,78,1.1,Fail,Inspector A
+813,V-501,2025-06-07,95 ,,pass,Inspector B
+814,HX-301,2024-04-14,78,err,Fail, inspector a 
+815,V-501,2024-05-03,,0.5,Pass, inspector a 
+816,P-102,2025-12-04,82,,Fail,Inspector B
+817,C-201,2024-01-30,82,0.5,Fail,Inspector B
+818,P-102,2025-02-25,78,,PASS,Inspector A
+819,C-201,2025-10-17,82,err,,Inspector B
+820,P-102,2024-08-30,95,1.1,Fail,Inspector B
+821,TK-401,2024-11-23,95,1.1,pass,Inspector A
+822,V-501,2025-05-15,95 ,,pass,Inspector B
+823,HX-301,2024-06-14,95,0.5,Pass,Inspector C
+824,C-201,2024-09-24,101,,,Inspector A
+825,HX-301,2024-07-03,101,err,pass,Inspector A
+826,TK-401,2024-07-10,82,,Pass,Inspector B
+827,C-201,2024-02-26,82,err,pass, inspector a 
+828,P-102,2024-04-25,,1.1,Fail,Inspector B
+829,P-102,2024-05-13,78,0.2,Fail,Inspector C
+830,V-501,2025-02-10,95 ,0.2,,Inspector B
+831,P-101,2024-06-26,78,1.1,, inspector a 
+832,V-501,2025-09-13,,err,, inspector a 
+833,V-501,2024-12-23,82,1.1,,Inspector C
+834,P-102,2024-07-08,95 ,err,pass,Inspector A
+835,P-102,2024-02-11,78,1.1,PASS,Inspector B
+836,V-501,2025-02-01,78,err,,Inspector C
+837,HX-301,2024-04-22,78,1.1,Fail,Inspector B
+838,P-101,2025-08-07,78,0.5,,Inspector B
+839,V-501,2025-08-23,95,0.2,Pass,Inspector C
+840,HX-301,2024-07-22,95,err,Fail,Inspector A
+841,P-102,2025-09-18,78,err,pass, inspector a 
+842,P-102,2024-03-25,95 ,err,pass,Inspector A
+843,P-101,2025-09-15,82,,Pass,Inspector B
+844,P-101,2024-06-04,82,0.5,Pass, inspector a 
+845,HX-301,2025-02-23,95 ,0.5,Pass,Inspector A
+846,V-501,2025-09-12,95 ,0.2,Pass,Inspector A
+847,HX-301,2025-01-26,78,0.5,Fail,Inspector A
+848,TK-401,2024-05-03,95 ,0.2,pass,Inspector B
+849,V-501,2024-12-17,95 ,err,pass,Inspector B
+850,TK-401,2024-07-21,95 ,0.5,Pass,Inspector C
+851,P-102,2025-08-08,,,PASS,Inspector B
+852,P-101,2025-07-03,95 ,0.5,pass,Inspector C
+853,P-101,2025-06-17,82,1.1,Fail,Inspector A
+854,C-201,2024-04-02,78,err,pass,Inspector B
+855,P-101,2024-12-11,101,1.1,Fail,Inspector B
+856,C-201,2025-09-02,,0.5,Pass,Inspector B
+857,C-201,2025-12-18,95,,Pass,Inspector A
+858,V-501,2024-08-07,95 ,err,,Inspector C
+859,V-501,2024-05-11,101,,Pass,Inspector A
+860,HX-301,2024-08-22,78,0.5,PASS,Inspector B
+861,C-201,2025-03-10,101,1.1,,Inspector C
+862,C-201,2025-01-31,82,0.5,Pass,Inspector C
+863,V-501,2024-03-17,82,0.2,Fail, inspector a 
+864,HX-301,2024-02-25,78,1.1,,Inspector B
+865,P-102,2025-05-05,101,,PASS,Inspector A
+866,TK-401,2024-06-19,101,0.2,pass,Inspector A
+867,HX-301,2025-03-17,101,0.2,pass,Inspector B
+868,P-102,2024-05-13,95,err,Pass,Inspector C
+869,C-201,2024-11-23,82,0.2,Fail,Inspector C
+870,P-102,2024-02-03,78,0.2,Pass,Inspector C
+871,HX-301,2025-02-19,101,,PASS, inspector a 
+872,TK-401,2024-11-11,78,1.1,pass,Inspector C
+873,C-201,2025-01-15,,0.5,Fail,Inspector C
+874,P-101,2025-05-06,82,1.1,pass, inspector a 
+875,P-101,2024-01-03,78,err,Pass,Inspector A
+876,P-101,2025-06-10,78,0.5,Pass, inspector a 
+877,P-102,2025-07-21,78,,pass,Inspector C
+878,HX-301,2024-04-02,82,,,Inspector A
+879,P-101,2025-07-11,101,0.2,PASS, inspector a 
+880,P-102,2024-04-19,101,0.2,Pass,Inspector C
+881,P-101,2025-12-22,,0.2,Fail,Inspector A
+882,HX-301,2025-02-22,78,0.5,Pass, inspector a 
+883,P-102,2025-12-30,95,0.2,Pass,Inspector C
+884,TK-401,2025-01-04,95,,PASS,Inspector B
+885,P-102,2025-02-14,78,0.5,Pass,Inspector A
+886,HX-301,2025-08-01,82,1.1,,Inspector C
+887,HX-301,2025-04-02,95 ,,,Inspector C
+888,P-101,2025-05-23,82,0.2,,Inspector A
+889,P-102,2024-12-07,95 ,0.5,, inspector a 
+890,HX-301,2024-06-09,95,,pass, inspector a 
+891,P-101,2024-06-01,95,err,Pass,Inspector B
+892,V-501,2024-05-21,,0.2,Pass,Inspector A
+893,HX-301,2024-09-29,,,Pass,Inspector C
+894,V-501,2024-12-04,101,0.2,Pass,Inspector A
+895,HX-301,2024-02-21,101,,pass,Inspector A
+896,P-101,2024-09-15,78,1.1,,Inspector B
+897,TK-401,2025-07-10,78,err,PASS,Inspector A
+898,P-102,2024-11-18,95 ,0.2,PASS,Inspector B
+899,C-201,2024-02-13,101,err,,Inspector A
+900,C-201,2025-08-26,95 ,err,pass, inspector a 
+901,TK-401,2025-09-12,,0.5,Pass,Inspector B
+902,TK-401,2025-04-19,,0.2,pass, inspector a 
+903,TK-401,2025-09-09,95 ,1.1,Pass, inspector a 
+904,P-101,2025-01-26,82,0.5,pass,Inspector C
+905,HX-301,2024-02-20,,err,PASS,Inspector B
+906,P-102,2024-08-26,95,,Fail,Inspector B
+907,TK-401,2025-12-06,95 ,err,,Inspector C
+908,TK-401,2025-08-19,78,err,pass,Inspector A
+909,V-501,2024-03-09,95,0.5,pass,Inspector B
+910,P-102,2024-01-27,,0.2,, inspector a 
+911,P-102,2025-07-07,78,0.2,pass,Inspector A
+912,V-501,2024-06-11,95 ,0.2,PASS,Inspector A
+913,P-101,2025-07-12,82,1.1,, inspector a 
+914,P-101,2024-05-30,78,,Pass,Inspector C
+915,TK-401,2025-11-08,78,0.2,, inspector a 
+916,C-201,2024-09-23,101,0.5,Fail,Inspector A
+917,C-201,2025-04-07,101,err,Fail, inspector a 
+918,C-201,2025-06-03,,0.2,,Inspector B
+919,P-101,2024-03-04,95,err,Pass, inspector a 
+920,C-201,2025-04-30,,0.2,Fail,Inspector B
+921,TK-401,2025-01-24,78,1.1,, inspector a 
+922,V-501,2024-04-03,95 ,0.2,Fail, inspector a 
+923,TK-401,2025-11-21,95,0.5,, inspector a 
+924,TK-401,2025-07-27,82,,pass, inspector a 
+925,V-501,2025-11-11,78,1.1,Pass,Inspector C
+926,V-501,2024-08-22,78,1.1,Pass, inspector a 
+927,C-201,2024-04-25,,0.2,pass,Inspector B
+928,HX-301,2024-06-30,95,err,,Inspector B
+929,V-501,2024-12-07,,1.1,Pass, inspector a 
+930,V-501,2025-08-17,95 ,,Fail,Inspector C
+931,P-101,2025-10-17,101,,PASS, inspector a 
+932,TK-401,2025-01-27,82,1.1,, inspector a 
+933,C-201,2024-01-27,,err,PASS,Inspector B
+934,HX-301,2024-03-07,78,0.5,,Inspector C
+935,HX-301,2024-04-14,82,0.5,PASS,Inspector B
+936,HX-301,2025-10-07,95,err,,Inspector B
+937,TK-401,2024-01-01,101,0.5,PASS, inspector a 
+938,V-501,2025-06-29,101,0.5,,Inspector A
+939,P-102,2025-03-22,95,,pass,Inspector B
+940,HX-301,2025-06-23,101,err,Pass, inspector a 
+941,TK-401,2024-01-23,78,0.2,PASS,Inspector A
+942,P-101,2024-08-07,101,0.5,PASS,Inspector B
+943,V-501,2024-07-28,,0.2,Fail,Inspector B
+944,V-501,2025-05-01,,0.2,PASS,Inspector B
+945,P-101,2024-09-11,95,1.1,,Inspector A
+946,C-201,2025-02-14,95 ,0.2,Fail,Inspector C
+947,C-201,2024-10-12,,0.5,PASS,Inspector A
+948,P-101,2025-09-23,,1.1,Pass,Inspector B
+949,C-201,2025-12-14,95,0.2,, inspector a 
+950,P-101,2025-02-15,,,Pass,Inspector B
+951,C-201,2025-12-17,101,err,,Inspector A
+952,TK-401,2025-07-13,95 ,0.2,pass, inspector a 
+953,P-102,2025-07-18,78,1.1,Pass, inspector a 
+954,HX-301,2024-10-04,101,0.2,Fail,Inspector C
+955,P-102,2025-09-29,,,PASS, inspector a 
+956,V-501,2025-09-23,101,err,Fail, inspector a 
+957,TK-401,2025-12-14,101,,PASS, inspector a 
+958,C-201,2025-08-03,95 ,0.2,PASS,Inspector C
+959,C-201,2025-08-25,95,0.2,Pass,Inspector A
+960,P-102,2025-09-20,95 ,err,Fail,Inspector A
+961,HX-301,2025-12-04,95,0.5,pass,Inspector A
+962,P-101,2024-12-25,78,,Pass, inspector a 
+963,V-501,2025-11-30,78,0.5,, inspector a 
+964,HX-301,2024-07-31,95,0.5,pass,Inspector B
+965,TK-401,2024-04-12,101,1.1,PASS,Inspector C
+966,P-101,2025-09-05,,,Pass,Inspector A
+967,TK-401,2024-01-26,95 ,err,PASS,Inspector B
+968,TK-401,2024-11-01,101,1.1,Fail,Inspector A
+969,HX-301,2024-10-27,,1.1,, inspector a 
+970,HX-301,2025-03-17,,0.2,PASS, inspector a 
+971,P-102,2024-09-25,78,1.1,PASS, inspector a 
+972,HX-301,2025-01-07,,1.1,,Inspector A
+973,HX-301,2025-08-07,95,1.1,Fail,Inspector B
+974,TK-401,2025-06-02,78,,Fail,Inspector B
+975,C-201,2025-01-13,,,Fail,Inspector B
+976,C-201,2025-03-04,95 ,1.1,Pass,Inspector A
+977,V-501,2025-02-10,95,err,,Inspector C
+978,P-101,2024-08-22,78,,Fail,Inspector B
+979,P-102,2024-05-01,82,1.1,Fail, inspector a 
+980,HX-301,2025-03-14,95 ,,PASS, inspector a 
+981,C-201,2024-05-17,101,0.2,pass,Inspector A
+982,P-101,2024-04-16,82,1.1,Pass,Inspector A
+983,TK-401,2025-01-16,95,err,, inspector a 
+984,P-101,2024-03-02,101,0.2,Pass, inspector a 
+985,TK-401,2025-08-25,,,pass,Inspector B
+986,P-101,2024-07-19,82,err,,Inspector C
+987,P-101,2025-03-30,95,,Fail, inspector a 
+988,P-102,2024-09-26,95 ,,Pass,Inspector B
+989,P-102,2024-04-23,78,0.5,,Inspector C
+990,V-501,2024-08-22,,1.1,Fail, inspector a 
+991,V-501,2024-12-20,101,,,Inspector A
+992,TK-401,2025-04-17,95,0.5,PASS,Inspector C
+993,P-102,2025-06-10,95,0.5,Pass,Inspector B
+994,C-201,2025-05-30,95,1.1,PASS,Inspector A
+995,V-501,2024-02-02,,1.1,PASS,Inspector C
+996,V-501,2024-10-19,,1.1,Fail,Inspector B
+997,P-101,2024-03-19,82,0.5,Fail, inspector a 
+998,TK-401,2024-10-19,101,,,Inspector A
+999,HX-301,2025-04-06,,0.5,Fail,Inspector C
+1000,V-501,2025-10-22,95 ,0.5,pass,Inspector B
+1001,P-102,2024-02-01,101,err,pass,Inspector B
+1002,HX-301,2024-03-15,95,0.2,,Inspector A
+1003,TK-401,2024-03-09,,0.5,Pass,Inspector C
+1004,V-501,2024-12-02,95 ,0.5,Pass, inspector a 
+1005,P-102,2025-09-15,95,err,,Inspector B
+1006,TK-401,2024-09-30,82,1.1,Fail,Inspector C
+1007,P-101,2024-01-13,95 ,0.2,,Inspector A
+1008,HX-301,2025-02-09,,err,PASS,Inspector A
+1009,C-201,2025-03-11,82,1.1,PASS,Inspector C
+1010,C-201,2025-11-17,95,1.1,pass,Inspector A
+1011,P-102,2025-06-28,101,1.1,Pass, inspector a 
+1012,TK-401,2025-09-09,82,,,Inspector A
+1013,V-501,2024-01-16,95 ,1.1,Fail,Inspector A
+1014,TK-401,2024-05-30,,err,,Inspector C
+1015,V-501,2025-07-05,,err,, inspector a 
+1016,TK-401,2025-08-23,101,0.5,,Inspector A
+1017,C-201,2024-11-09,,err,Fail, inspector a 
+1018,C-201,2024-04-17,,0.5,PASS, inspector a 
+1019,P-101,2024-08-26,78,err,, inspector a 
+1020,C-201,2025-12-28,82,1.1,Fail,Inspector B
+1021,V-501,2025-07-24,82,err,pass,Inspector B
+1022,P-102,2025-06-17,82,err,Pass,Inspector B
+1023,V-501,2024-04-25,95 ,err,pass,Inspector A
+1024,P-102,2025-02-05,101,0.5,Fail,Inspector A
+1025,TK-401,2025-12-29,101,0.5,Fail,Inspector B
+1026,P-101,2024-05-04,78,0.2,Fail,Inspector B
+1027,P-101,2024-06-28,78,0.2,, inspector a 
+1028,HX-301,2025-04-17,,0.2,Pass,Inspector A
+1029,V-501,2025-06-04,101,err,pass, inspector a 
+1030,P-101,2024-05-04,101,0.2,PASS,Inspector B
+1031,HX-301,2025-01-16,78,1.1,Pass,Inspector B
+1032,C-201,2025-07-20,95,0.5,Pass,Inspector A
+1033,C-201,2025-05-09,,err,Fail,Inspector B
+1034,C-201,2024-11-18,,err,PASS,Inspector A
+1035,P-101,2024-02-05,82,0.2,pass, inspector a 
+1036,P-101,2024-07-05,95,1.1,PASS, inspector a 
+1037,P-101,2025-03-24,95,0.2,Pass, inspector a 
+1038,V-501,2025-03-19,,,PASS,Inspector A
+1039,P-101,2024-03-16,95 ,,PASS,Inspector C
+1040,V-501,2024-03-29,78,0.5,PASS,Inspector A
+1041,TK-401,2025-04-02,95,0.2,pass,Inspector C
+1042,HX-301,2025-09-25,78,err,,Inspector A
+1043,TK-401,2025-01-11,82,,pass,Inspector B
+1044,TK-401,2024-10-28,82,,, inspector a 
+1045,HX-301,2024-06-12,101,,Pass,Inspector B
+1046,HX-301,2025-07-06,101,err,,Inspector A
+1047,TK-401,2025-04-28,95 ,,,Inspector A
+1048,P-101,2025-01-07,95,err,pass,Inspector B
+1049,HX-301,2025-01-06,78,err,pass, inspector a 
+1050,V-501,2024-01-24,101,0.5,Fail,Inspector A
+1051,P-102,2024-03-30,,1.1,pass,Inspector B
+1052,P-101,2025-01-24,95,0.2,,Inspector A
+1053,C-201,2025-08-08,82,0.2,pass,Inspector C
+1054,TK-401,2024-12-09,95,0.2,pass, inspector a 
+1055,C-201,2025-04-12,95 ,0.2,Fail, inspector a 
+1056,HX-301,2024-10-30,101,0.5,Pass,Inspector A
+1057,V-501,2025-07-08,95 ,err,Fail,Inspector C
+1058,TK-401,2024-04-04,95 ,err,pass,Inspector B
+1059,C-201,2025-03-22,82,0.5,Fail, inspector a 
+1060,TK-401,2024-12-08,101,0.2,pass,Inspector A
+1061,C-201,2025-12-25,95 ,1.1,PASS,Inspector B
+1062,TK-401,2024-04-17,95,1.1,PASS, inspector a 
+1063,C-201,2024-02-16,,err,Fail,Inspector A
+1064,P-102,2025-08-14,82,1.1,pass,Inspector A
+1065,TK-401,2025-12-28,78,0.2,Pass, inspector a 
+1066,V-501,2024-08-12,95,,PASS,Inspector A
+1067,P-102,2025-04-15,82,0.5,PASS, inspector a 
+1068,TK-401,2024-06-30,82,err,,Inspector C
+1069,P-101,2024-10-13,78,0.2,pass,Inspector B
+1070,V-501,2024-06-13,95,,Fail,Inspector A
+1071,HX-301,2024-05-19,78,,,Inspector C
+1072,HX-301,2024-01-07,78,0.2,PASS,Inspector A
+1073,P-101,2024-04-03,101,1.1,Pass,Inspector B
+1074,P-101,2025-04-19,95 ,0.2,PASS,Inspector B
+1075,P-101,2025-03-13,95 ,0.2,PASS,Inspector B
+1076,P-101,2025-03-27,101,0.5,Fail,Inspector A
+1077,HX-301,2024-02-03,78,,,Inspector C
+1078,P-101,2025-11-27,78,,PASS,Inspector A
+1079,TK-401,2025-05-31,95,err,PASS,Inspector C
+1080,V-501,2024-08-20,82,err,, inspector a 
+1081,TK-401,2025-02-27,101,err,Fail, inspector a 
+1082,P-102,2024-12-18,101,1.1,PASS, inspector a 
+1083,HX-301,2024-04-28,95 ,0.2,,Inspector B
+1084,P-102,2025-04-30,95,err,Pass,Inspector B
+1085,P-101,2024-03-13,95,1.1,Pass,Inspector B
+1086,TK-401,2024-12-26,95 ,err,pass,Inspector B
+1087,P-102,2025-12-02,78,,PASS,Inspector B
+1088,HX-301,2025-01-03,95,err,Fail,Inspector C
+1089,HX-301,2024-06-04,101,0.2,pass,Inspector C
+1090,HX-301,2025-07-12,78,,pass,Inspector B
+1091,TK-401,2025-08-25,82,1.1,PASS,Inspector B
+1092,C-201,2025-07-14,82,1.1,Fail, inspector a 
+1093,C-201,2025-10-07,,0.5,,Inspector A
+1094,C-201,2024-12-04,78,,pass,Inspector C
+1095,P-101,2025-12-22,,1.1,pass,Inspector C
+1096,P-101,2024-12-26,95,,Fail,Inspector B
+1097,P-102,2025-08-01,95 ,0.2,,Inspector A
+1098,C-201,2025-07-07,95,0.2,Pass, inspector a 
+1099,V-501,2025-10-06,95,0.2,,Inspector A
+1100,P-101,2024-08-27,78,0.2,pass, inspector a 
+1101,TK-401,2024-04-07,95 ,0.2,Fail,Inspector C
+1102,V-501,2024-10-29,,,Pass,Inspector B
+1103,V-501,2024-06-21,78,,,Inspector C
+1104,C-201,2024-08-27,95,0.2,Fail,Inspector A
+1105,V-501,2024-03-25,82,0.5,pass,Inspector C
+1106,C-201,2025-08-02,78,0.2,Fail, inspector a 
+1107,P-101,2025-12-17,78,1.1,Pass,Inspector C
+1108,V-501,2024-08-07,82,1.1,,Inspector C
+1109,V-501,2025-03-26,101,1.1,Pass, inspector a 
+1110,P-101,2024-10-16,,0.2,pass,Inspector B
+1111,HX-301,2024-05-12,101,err,Pass,Inspector C
+1112,V-501,2025-12-26,101,1.1,Pass,Inspector B
+1113,P-101,2025-11-13,78,0.2,pass,Inspector C
+1114,TK-401,2025-11-24,82,1.1,Pass,Inspector B
+1115,TK-401,2025-12-07,78,0.2,PASS,Inspector C
+1116,P-101,2024-05-09,82,,Pass,Inspector C
+1117,P-101,2024-03-06,101,1.1,,Inspector A
+1118,V-501,2024-08-14,95,err,,Inspector B
+1119,C-201,2025-07-12,95,0.5,PASS,Inspector C
+1120,P-101,2024-05-30,95,,Pass,Inspector A
+1121,HX-301,2024-03-01,,err,,Inspector A
+1122,P-101,2025-10-21,,err,pass,Inspector A
+1123,TK-401,2024-03-16,,,pass,Inspector C
+1124,V-501,2024-02-15,82,,,Inspector C
+1125,V-501,2025-12-12,82,0.5,Fail,Inspector C
+1126,TK-401,2024-11-10,95 ,1.1,Fail,Inspector A
+1127,HX-301,2024-01-03,,,pass,Inspector B
+1128,C-201,2024-12-08,78,0.5,Fail,Inspector C
+1129,P-101,2024-01-12,,0.5,pass,Inspector C
+1130,P-102,2024-09-18,,0.5,PASS,Inspector A
+1131,TK-401,2025-04-15,95,0.5,,Inspector A
+1132,P-102,2025-10-04,95 ,err,Fail,Inspector B
+1133,C-201,2024-08-14,95,0.2,Pass,Inspector A
+1134,TK-401,2024-02-02,78,,Pass,Inspector C
+1135,P-101,2024-09-07,95 ,err,, inspector a 
+1136,C-201,2025-06-06,82,0.2,Fail,Inspector A
+1137,HX-301,2024-03-31,,,Fail,Inspector B
+1138,P-101,2025-09-23,95,1.1,pass,Inspector C
+1139,TK-401,2025-07-30,101,,PASS,Inspector B
+1140,P-102,2024-03-30,101,err,pass,Inspector C
+1141,HX-301,2024-06-20,78,0.5,Fail, inspector a 
+1142,P-102,2025-11-18,78,0.5,pass,Inspector C
+1143,TK-401,2024-12-28,82,0.2,PASS, inspector a 
+1144,P-101,2025-04-19,95 ,err,Fail,Inspector A
+1145,P-101,2025-03-31,78,1.1,Fail,Inspector B
+1146,TK-401,2025-12-31,78,0.5,Fail, inspector a 
+1147,P-102,2025-12-18,78,err,Fail,Inspector A
+1148,TK-401,2024-12-27,78,err,, inspector a 
+1149,V-501,2024-01-05,95,err,Pass, inspector a 
+1150,P-101,2024-04-18,101,,Fail,Inspector C
+1151,TK-401,2024-12-06,101,0.2,,Inspector C
+1152,V-501,2025-08-05,,,Fail,Inspector A
+1153,TK-401,2025-01-25,101,0.2,Pass,Inspector C
+1154,HX-301,2024-08-30,101,err,Fail,Inspector A
+1155,HX-301,2025-07-14,101,0.5,, inspector a 
+1156,TK-401,2024-06-25,95,1.1,PASS,Inspector A
+1157,P-101,2025-11-04,101,0.5,Fail, inspector a 
+1158,P-101,2024-06-15,78,0.5,,Inspector B
+1159,C-201,2025-09-21,101,0.5,Fail,Inspector B
+1160,P-102,2025-11-09,78,1.1,Pass,Inspector C
+1161,HX-301,2024-10-12,95,0.5,Fail,Inspector A
+1162,HX-301,2024-03-08,95,err,,Inspector B
+1163,P-101,2025-12-18,95 ,0.5,Pass,Inspector B
+1164,V-501,2024-02-06,82,0.2,PASS,Inspector B
+1165,P-102,2024-08-12,82,,pass,Inspector C
+1166,V-501,2024-05-10,78,0.5,PASS,Inspector B
+1167,P-102,2024-02-12,101,0.2,pass,Inspector C
+1168,HX-301,2024-02-18,95,,Fail,Inspector A
+1169,P-101,2025-11-29,95,err,Fail, inspector a 
+1170,HX-301,2025-04-12,95,,,Inspector A
+1171,TK-401,2025-09-17,82,0.5,Pass,Inspector A
+1172,P-102,2025-10-29,101,0.2,pass,Inspector A
+1173,C-201,2025-04-25,,err,Pass,Inspector B
+1174,V-501,2025-08-19,101,0.5,Pass,Inspector A
+1175,P-102,2024-09-26,95 ,err,PASS,Inspector A
+1176,HX-301,2025-09-26,,0.5,Fail,Inspector A
+1177,P-101,2024-07-26,,,Pass,Inspector A
+1178,HX-301,2025-01-10,101,1.1,pass, inspector a 
+1179,P-101,2025-04-16,,0.5,pass,Inspector B
+1180,TK-401,2024-03-27,101,,PASS,Inspector C
+1181,C-201,2024-03-02,101,1.1,PASS,Inspector C
+1182,P-101,2025-11-02,,,pass,Inspector B
+1183,C-201,2025-12-02,101,0.5,Fail, inspector a 
+1184,P-101,2024-12-18,95,err,pass,Inspector B
+1185,P-102,2025-04-09,82,0.5,pass,Inspector B
+1186,P-101,2025-03-20,78,1.1,Fail,Inspector C
+1187,HX-301,2024-08-09,95 ,0.5,PASS,Inspector C
+1188,V-501,2024-09-29,82,0.2,,Inspector A
+1189,V-501,2025-06-30,,err,,Inspector A
+1190,HX-301,2025-09-29,82,0.5,PASS,Inspector A
+1191,TK-401,2025-11-04,101,,PASS,Inspector B
+1192,TK-401,2024-07-24,95,0.5,Fail,Inspector C
+1193,P-102,2025-04-16,95,0.2,PASS,Inspector B
+1194,P-102,2024-08-18,95,0.5,Pass,Inspector B
+1195,P-101,2024-03-20,95 ,1.1,, inspector a 
+1196,P-101,2025-02-19,95,1.1,PASS, inspector a 
+1197,V-501,2025-02-03,101,1.1,pass,Inspector C
+1198,HX-301,2025-04-09,101,1.1,PASS,Inspector B
+1199,P-102,2025-01-04,,1.1,, inspector a 
+1200,HX-301,2024-10-04,,err,, inspector a 
+1201,HX-301,2024-03-06,82,1.1,Fail,Inspector A
+1202,C-201,2024-06-30,95,1.1,Pass,Inspector A
+1203,C-201,2025-08-09,101,1.1,,Inspector A
+1204,P-102,2024-12-15,,err,Fail,Inspector C
+1205,TK-401,2025-01-15,,,PASS, inspector a 
+1206,P-101,2024-07-05,82,0.2,pass,Inspector C
+1207,P-102,2024-05-19,95,err,Pass,Inspector C
+1208,HX-301,2024-07-04,78,1.1,Pass,Inspector C
+1209,TK-401,2025-10-28,101,0.5,Fail,Inspector B
+1210,P-101,2025-03-01,95,1.1,PASS,Inspector B
+1211,HX-301,2024-02-27,101,,Fail, inspector a 
+1212,P-101,2024-08-19,95 ,0.2,Pass,Inspector A
+1213,TK-401,2025-05-22,95,0.5,Fail,Inspector A
+1214,C-201,2024-03-22,95 ,err,pass,Inspector A
+1215,C-201,2025-07-24,95,0.5,Fail,Inspector C
+1216,C-201,2025-11-04,95 ,0.5,pass, inspector a 
+1217,C-201,2024-09-22,95 ,,Pass,Inspector A
+1218,P-102,2025-05-24,95 ,0.5,Pass, inspector a 
+1219,V-501,2024-12-15,82,0.5,pass, inspector a 
+1220,P-102,2025-04-08,101,,pass,Inspector C
+1221,P-102,2025-02-20,82,,Pass,Inspector A
+1222,P-101,2024-10-12,95 ,0.2,PASS,Inspector B
+1223,TK-401,2025-03-25,78,0.2,PASS,Inspector C
+1224,TK-401,2025-10-26,95 ,0.2,Pass,Inspector A
+1225,HX-301,2024-06-04,95 ,0.5,Fail,Inspector A
+1226,P-102,2024-11-12,95,,Fail,Inspector A
+1227,P-101,2025-03-11,101,1.1,Fail,Inspector A
+1228,HX-301,2024-08-10,101,0.2,pass,Inspector B
+1229,P-102,2024-02-05,78,0.5,pass,Inspector C
+1230,V-501,2024-12-25,82,err,pass,Inspector B
+1231,TK-401,2024-01-28,95 ,0.5,, inspector a 
+1232,C-201,2024-09-09,82,1.1,,Inspector C
+1233,V-501,2025-11-06,82,0.5,Fail,Inspector B
+1234,V-501,2024-06-03,95 ,,Fail,Inspector B
+1235,TK-401,2025-06-18,101,0.5,Pass,Inspector C
+1236,HX-301,2025-01-07,95 ,0.5,PASS,Inspector B
+1237,P-102,2024-05-12,,,Pass,Inspector C
+1238,HX-301,2024-02-05,,0.2,Pass, inspector a 
+1239,TK-401,2024-02-16,82,,, inspector a 
+1240,TK-401,2024-05-03,82,0.5,pass,Inspector A
+1241,P-101,2024-04-11,,0.2,Fail, inspector a 
+1242,C-201,2024-04-12,95 ,err,Fail,Inspector B
+1243,P-101,2025-12-24,,,PASS,Inspector C
+1244,HX-301,2025-02-16,82,1.1,pass,Inspector C
+1245,P-102,2024-05-14,82,0.5,Fail,Inspector B
+1246,V-501,2024-06-14,101,0.2,Pass,Inspector C
+1247,P-102,2024-09-16,95,err,,Inspector B
+1248,V-501,2025-11-11,95 ,0.5,Fail,Inspector C
+1249,P-101,2025-02-18,,0.5,,Inspector C
+1250,C-201,2024-08-04,95 ,0.2,pass,Inspector B
+1251,V-501,2025-10-12,,0.5,Pass,Inspector A
+1252,P-101,2025-06-28,95,,pass,Inspector C
+1253,P-102,2024-04-17,78,,PASS,Inspector B
+1254,C-201,2025-07-26,78,err,PASS,Inspector B
+1255,V-501,2024-01-14,78,0.5,pass,Inspector B
+1256,V-501,2025-02-14,78,err,PASS, inspector a 
+1257,TK-401,2024-08-22,95 ,,PASS, inspector a 
+1258,C-201,2024-03-05,95 ,1.1,pass,Inspector A
+1259,C-201,2025-01-05,95,err,Pass,Inspector B
+1260,V-501,2025-10-03,78,1.1,Pass, inspector a 
+1261,P-101,2024-10-01,78,err,PASS,Inspector C
+1262,C-201,2025-03-14,78,err,Pass, inspector a 
+1263,P-102,2025-08-29,101,1.1,pass, inspector a 
+1264,P-102,2025-01-01,78,,Pass,Inspector B
+1265,C-201,2024-01-19,82,,Fail,Inspector A
+1266,TK-401,2024-03-13,95 ,,Pass,Inspector B
+1267,P-101,2025-11-08,82,1.1,Pass,Inspector B
+1268,P-102,2025-08-08,95 ,,, inspector a 
+1269,TK-401,2025-04-18,101,,pass,Inspector A
+1270,TK-401,2025-08-02,,0.5,Pass,Inspector B
+1271,HX-301,2025-03-12,,0.5,Pass,Inspector B
+1272,HX-301,2024-05-15,95 ,,Pass, inspector a 
+1273,V-501,2024-12-13,101,err,, inspector a 
+1274,TK-401,2025-10-26,,1.1,Fail,Inspector B
+1275,V-501,2025-10-08,101,1.1,Fail,Inspector A
+1276,P-101,2025-09-09,95 ,,PASS,Inspector C
+1277,P-101,2024-07-11,101,err,PASS,Inspector B
+1278,P-101,2024-08-26,82,0.2,Fail,Inspector A
+1279,P-101,2025-08-23,95,0.2,PASS, inspector a 
+1280,C-201,2025-01-22,95,err,pass,Inspector C
+1281,P-101,2025-05-06,95 ,0.2,Pass,Inspector B
+1282,TK-401,2025-03-06,,,PASS,Inspector C
+1283,V-501,2025-07-11,,,pass,Inspector C
+1284,HX-301,2025-08-09,101,,PASS,Inspector A
+1285,P-102,2025-03-05,,1.1,pass,Inspector A
+1286,C-201,2024-09-20,78,0.2,pass,Inspector B
+1287,C-201,2024-12-27,95 ,0.5,pass,Inspector B
+1288,TK-401,2024-02-08,95 ,,PASS, inspector a 
+1289,P-102,2025-09-23,,,Pass,Inspector A
+1290,TK-401,2025-10-12,95 ,1.1,Fail, inspector a 
+1291,C-201,2024-08-16,82,0.2,PASS, inspector a 
+1292,P-102,2024-01-09,95,1.1,Pass,Inspector B
+1293,P-102,2025-06-25,,,Fail, inspector a 
+1294,P-102,2024-11-02,78,1.1,,Inspector C
+1295,TK-401,2025-06-21,101,err,PASS, inspector a 
+1296,C-201,2024-12-23,,,Fail,Inspector C
+1297,C-201,2024-12-04,95,0.5,PASS,Inspector C
+1298,C-201,2024-03-15,101,0.2,pass,Inspector B
+1299,P-102,2025-09-14,95 ,1.1,PASS, inspector a 
+1300,P-102,2024-10-18,101,1.1,pass,Inspector C
+1301,TK-401,2024-01-18,95 ,err,Fail,Inspector B
+1302,P-101,2024-08-17,101,1.1,, inspector a 
+1303,TK-401,2024-05-11,95 ,,Fail,Inspector C
+1304,P-102,2024-04-12,82,0.2,Pass, inspector a 
+1305,P-101,2024-05-12,95 ,0.5,Pass, inspector a 
+1306,HX-301,2024-02-14,95,1.1,,Inspector C
+1307,C-201,2024-07-16,95 ,,PASS,Inspector C
+1308,TK-401,2025-04-28,82,0.5,Pass,Inspector B
+1309,P-101,2024-01-11,95,1.1,, inspector a 
+1310,HX-301,2024-11-07,78,0.5,,Inspector B
+1311,P-101,2025-08-03,78,0.5,PASS,Inspector A
+1312,P-101,2024-05-19,82,,PASS, inspector a 
+1313,TK-401,2024-12-30,95 ,err,pass,Inspector B
+1314,TK-401,2024-12-04,95,,Pass, inspector a 
+1315,TK-401,2024-03-21,101,0.5,Pass,Inspector C
+1316,C-201,2025-12-23,101,1.1,Fail,Inspector C
+1317,C-201,2025-12-13,,,Fail,Inspector A
+1318,P-102,2024-03-15,101,err,PASS,Inspector A
+1319,C-201,2024-07-28,82,0.5,pass,Inspector B
+1320,V-501,2025-11-17,82,0.2,Fail,Inspector B
+1321,HX-301,2024-11-13,95,0.5,PASS, inspector a 
+1322,V-501,2024-07-31,78,0.2,PASS,Inspector B
+1323,HX-301,2025-11-10,95 ,err,pass, inspector a 
+1324,P-101,2025-07-07,78,err,PASS,Inspector B
+1325,C-201,2025-08-05,,err,Pass,Inspector B
+1326,P-101,2025-10-31,95 ,,pass,Inspector C
+1327,HX-301,2024-03-06,95,0.5,Pass,Inspector C
+1328,C-201,2024-07-31,78,0.5,Fail,Inspector C
+1329,P-102,2024-02-18,82,err,,Inspector C
+1330,HX-301,2025-03-08,95,0.5,pass,Inspector C
+1331,P-102,2024-06-12,82,0.5,,Inspector B
+1332,P-102,2025-09-30,78,0.5,Pass,Inspector B
+1333,HX-301,2024-12-04,101,0.2,Fail,Inspector B
+1334,P-102,2024-01-11,78,0.5,Fail,Inspector C
+1335,HX-301,2025-02-22,,0.2,Pass, inspector a 
+1336,C-201,2025-04-12,78,,pass,Inspector B
+1337,TK-401,2025-05-04,101,1.1,PASS,Inspector B
+1338,P-102,2024-02-28,95,1.1,Fail,Inspector A
+1339,P-102,2024-03-21,82,err,,Inspector C
+1340,P-102,2025-05-14,82,0.2,Fail,Inspector C
+1341,P-101,2024-05-14,82,err,PASS, inspector a 
+1342,TK-401,2024-03-10,95 ,0.2,Pass, inspector a 
+1343,P-102,2024-06-15,95 ,0.5,PASS,Inspector A
+1344,P-101,2025-01-17,,,PASS, inspector a 
+1345,HX-301,2024-04-14,95 ,,PASS,Inspector C
+1346,P-101,2025-02-27,101,err,Fail,Inspector C
+1347,HX-301,2024-02-21,95,err,Fail, inspector a 
+1348,V-501,2024-06-06,,0.5,PASS,Inspector A
+1349,P-102,2024-07-03,95,err,Pass,Inspector C
+1350,HX-301,2025-01-29,101,1.1,PASS,Inspector B
+1351,HX-301,2024-09-10,82,0.5,pass,Inspector A
+1352,P-101,2024-07-09,82,0.2,Pass,Inspector A
+1353,TK-401,2024-05-02,,err,Pass,Inspector B
+1354,C-201,2025-12-14,95 ,err,pass,Inspector A
+1355,P-101,2025-11-16,,0.2,pass,Inspector C
+1356,P-101,2025-12-11,95 ,0.5,,Inspector B
+1357,P-101,2024-12-26,101,err,,Inspector C
+1358,C-201,2025-12-12,82,err,PASS,Inspector A
+1359,P-101,2025-05-20,82,0.5,Fail, inspector a 
+1360,V-501,2025-02-01,95,0.5,Fail, inspector a 
+1361,P-102,2024-07-05,78,1.1,PASS,Inspector B
+1362,P-101,2024-05-27,,0.5,pass,Inspector C
+1363,C-201,2025-12-02,101,,Fail,Inspector B
+1364,V-501,2024-01-02,101,0.5,Fail,Inspector C
+1365,C-201,2024-10-28,,0.2,PASS, inspector a 
+1366,TK-401,2025-06-04,101,1.1,Pass,Inspector C
+1367,P-101,2025-04-20,82,0.2,PASS, inspector a 
+1368,V-501,2025-06-03,95,0.2,,Inspector C
+1369,V-501,2024-07-13,,,PASS,Inspector B
+1370,HX-301,2025-02-10,95 ,0.5,Fail,Inspector C
+1371,P-102,2025-02-28,95,0.5,pass, inspector a 
+1372,C-201,2025-04-30,82,0.5,PASS,Inspector B
+1373,HX-301,2024-01-18,78,,PASS,Inspector A
+1374,TK-401,2024-05-25,82,0.2,PASS,Inspector B
+1375,TK-401,2024-06-03,95,0.2,Pass,Inspector C
+1376,P-102,2025-02-24,78,0.5,,Inspector C
+1377,V-501,2024-11-19,95 ,err,pass,Inspector B
+1378,P-102,2025-03-22,,0.5,pass,Inspector B
+1379,V-501,2025-09-29,95,0.5,Pass, inspector a 
+1380,P-101,2025-01-21,95,1.1,,Inspector A
+1381,V-501,2025-10-23,101,1.1,Pass,Inspector B
+1382,V-501,2024-07-28,78,0.5,,Inspector A
+1383,C-201,2024-02-14,101,err,Fail,Inspector B
+1384,V-501,2024-03-06,78,0.5,Fail,Inspector A
+1385,P-101,2024-06-26,95,1.1,,Inspector A
+1386,C-201,2025-12-29,101,0.5,pass, inspector a 
+1387,HX-301,2025-07-02,,1.1,Pass,Inspector A
+1388,P-101,2025-08-19,101,1.1,PASS,Inspector A
+1389,C-201,2025-02-02,95,0.5,Pass,Inspector A
+1390,P-102,2025-02-01,101,err,pass, inspector a 
+1391,TK-401,2025-10-15,,0.5,PASS,Inspector C
+1392,V-501,2025-02-01,,1.1,pass,Inspector C
+1393,TK-401,2024-05-01,,0.5,Fail,Inspector C
+1394,P-102,2025-11-05,78,err,Fail, inspector a 
+1395,P-102,2024-05-28,78,0.5,Fail,Inspector A
+1396,V-501,2024-11-08,78,0.2,PASS,Inspector B
+1397,C-201,2025-09-18,101,0.5,Pass,Inspector C
+1398,TK-401,2025-05-12,101,0.2,Pass, inspector a 
+1399,HX-301,2025-09-21,82,,,Inspector C
+1400,V-501,2025-08-12,101,0.2,Fail,Inspector B
+1401,V-501,2024-04-23,101,0.2,Pass,Inspector B
+1402,HX-301,2025-03-18,,0.2,Fail,Inspector A
+1403,P-101,2024-03-04,95,0.5,Fail,Inspector C
+1404,TK-401,2024-07-17,,0.5,Pass,Inspector A
+1405,V-501,2024-11-25,78,1.1,Fail,Inspector C
+1406,TK-401,2024-09-07,82,err,Pass,Inspector C
+1407,V-501,2025-07-20,82,,,Inspector B
+1408,TK-401,2025-11-06,101,0.2,Pass, inspector a 
+1409,TK-401,2025-02-11,95 ,,Fail, inspector a 
+1410,P-102,2025-03-22,82,0.5,,Inspector B
+1411,TK-401,2025-05-28,,0.5,Fail, inspector a 
+1412,V-501,2025-02-21,78,err,PASS,Inspector A
+1413,TK-401,2025-10-08,,0.5,pass, inspector a 
+1414,P-102,2024-04-17,,err,PASS,Inspector A
+1415,P-101,2024-01-01,82,0.5,,Inspector B
+1416,P-102,2024-07-24,95 ,err,Fail,Inspector A
+1417,TK-401,2025-11-20,101,0.5,PASS,Inspector B
+1418,V-501,2025-04-17,101,0.2,, inspector a 
+1419,V-501,2024-11-29,95 ,0.2,pass, inspector a 
+1420,HX-301,2025-05-19,78,0.2,pass,Inspector C
+1421,P-102,2025-08-18,78,err,,Inspector A
+1422,C-201,2025-10-31,82,0.2,,Inspector B
+1423,TK-401,2025-04-23,,,Pass, inspector a 
+1424,V-501,2025-05-30,78,1.1,, inspector a 
+1425,TK-401,2025-08-16,95 ,0.5,,Inspector C
+1426,V-501,2024-12-24,,0.5,Pass,Inspector B
+1427,HX-301,2025-12-19,,1.1,pass, inspector a 
+1428,TK-401,2024-06-23,95,err,Pass,Inspector B
+1429,HX-301,2024-11-27,82,1.1,,Inspector B
+1430,C-201,2024-12-17,82,err,PASS, inspector a 
+1431,V-501,2025-10-05,78,,PASS,Inspector B
+1432,TK-401,2025-08-16,78,,PASS, inspector a 
+1433,TK-401,2024-05-26,,,,Inspector C
+1434,HX-301,2024-03-05,101,err,pass, inspector a 
+1435,TK-401,2024-01-23,78,err,, inspector a 
+1436,V-501,2024-11-10,95 ,,PASS,Inspector C
+1437,TK-401,2025-12-03,101,1.1,pass,Inspector C
+1438,TK-401,2024-03-18,82,err,,Inspector C
+1439,HX-301,2024-04-25,,0.5,PASS, inspector a 
+1440,V-501,2025-06-15,95,0.5,pass,Inspector A
+1441,C-201,2025-01-24,101,err,Pass,Inspector C
+1442,C-201,2024-10-23,78,err,Fail, inspector a 
+1443,C-201,2024-01-11,82,0.2,Pass,Inspector B
+1444,P-102,2025-02-12,,0.2,pass, inspector a 
+1445,TK-401,2024-10-23,101,0.2,Pass,Inspector B
+1446,TK-401,2024-10-04,95,1.1,,Inspector A
+1447,P-101,2024-08-14,101,err,,Inspector B
+1448,P-101,2025-11-12,95,,PASS,Inspector B
+1449,TK-401,2025-09-25,95 ,,PASS,Inspector A
+1450,C-201,2025-07-20,,0.5,Pass,Inspector B
+1451,C-201,2025-04-02,78,0.2,Pass,Inspector B
+1452,V-501,2024-02-17,95,,pass,Inspector A
+1453,TK-401,2025-08-29,95,0.5,Pass,Inspector C
+1454,C-201,2025-01-31,78,err,PASS,Inspector B
+1455,TK-401,2025-03-24,95 ,1.1,pass, inspector a 
+1456,P-101,2025-08-06,101,,Pass,Inspector A
+1457,HX-301,2025-06-27,82,,Pass,Inspector A
+1458,V-501,2024-04-25,82,,PASS,Inspector A
+1459,P-102,2024-02-18,95,1.1,PASS,Inspector C
+1460,TK-401,2024-05-14,101,0.2,pass, inspector a 
+1461,V-501,2024-10-07,95,,, inspector a 
+1462,P-102,2025-01-18,95,0.2,pass,Inspector B
+1463,P-101,2024-05-09,95,1.1,, inspector a 
+1464,P-102,2025-05-04,95,,Fail,Inspector B
+1465,P-101,2024-07-04,101,0.2,PASS,Inspector B
+1466,V-501,2024-08-08,95 ,1.1,pass,Inspector A
+1467,HX-301,2024-09-21,95,,pass,Inspector C
+1468,C-201,2025-07-08,95 ,1.1,PASS,Inspector B
+1469,HX-301,2025-09-07,95,0.5,Pass,Inspector B
+1470,P-102,2025-07-01,95,0.2,pass,Inspector A
+1471,C-201,2024-05-20,95,1.1,Fail,Inspector A
+1472,V-501,2024-06-19,101,0.2,Pass,Inspector B
+1473,P-102,2025-02-07,95 ,0.5,Pass,Inspector A
+1474,P-102,2025-04-28,95 ,0.5,pass, inspector a 
+1475,HX-301,2024-06-09,95,err,,Inspector B
+1476,C-201,2025-09-24,101,1.1,PASS,Inspector C
+1477,P-102,2024-06-24,101,1.1,Fail,Inspector C
+1478,V-501,2024-05-23,95,0.2,pass,Inspector A
+1479,C-201,2025-05-29,,1.1,,Inspector A
+1480,P-101,2025-04-04,78,1.1,Pass,Inspector A
+1481,C-201,2025-01-06,101,0.2,PASS, inspector a 
+1482,C-201,2025-04-10,95,,Fail,Inspector C
+1483,P-102,2025-10-15,95,0.5,PASS, inspector a 
+1484,V-501,2025-06-25,95 ,1.1,Pass, inspector a 
+1485,C-201,2024-05-01,101,1.1,, inspector a 
+1486,C-201,2024-07-23,95,err,Fail,Inspector A
+1487,P-102,2024-12-07,,err,,Inspector A
+1488,P-102,2024-08-15,78,err,Fail, inspector a 
+1489,P-101,2024-03-26,95 ,0.5,Fail,Inspector B
+1490,P-101,2025-03-13,101,,,Inspector B
+1491,P-101,2025-07-24,95,0.5,pass, inspector a 
+1492,P-101,2024-07-20,95,err,pass,Inspector B
+1493,V-501,2024-11-19,78,1.1,Fail,Inspector A
+1494,V-501,2025-03-31,95,,PASS,Inspector B
+1495,V-501,2024-12-01,82,,,Inspector A
+1496,TK-401,2024-04-13,101,0.2,PASS, inspector a 
+1497,HX-301,2025-12-03,82,1.1,PASS, inspector a 
+1498,P-101,2025-05-23,95 ,,pass, inspector a 
+1499,TK-401,2024-06-15,,err,Pass,Inspector C
+1500,P-102,2024-08-17,,0.5,,Inspector C
