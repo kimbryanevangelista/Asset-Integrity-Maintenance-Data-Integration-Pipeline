@@ -74,9 +74,8 @@ BEGIN
             FROM DateRange
             WHERE CalendarDate < '2026-12-31'
         )
-        INSERT INTO gold.dim_date (date_key, full_date, year, quarter, month_number, month_name, day_of_week)
+        INSERT INTO gold.dim_date (full_date, year, quarter, month_number, month_name, day_of_week)
         SELECT 
-            CAST(FORMAT(CalendarDate, 'yyyyMMdd') AS INT) AS date_key,
             CalendarDate AS full_date,
             YEAR(CalendarDate) AS year,
             DATEPART(quarter, CalendarDate) AS quarter,
@@ -87,6 +86,81 @@ BEGIN
         OPTION (MAXRECURSION 1100);
         SET @end_time = GETDATE();
 		PRINT '>> Load Duration: ' + CAST(DATEDIFF(SECOND, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+        PRINT '------------------------------------------------';
+
+
+        PRINT '------------------------------------------------';
+		PRINT 'Loading Fact Tables';
+		PRINT '------------------------------------------------';
+
+        -- Loading gold.fact_inspection
+        SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: gold.fact_inspection';
+        TRUNCATE TABLE gold.fact_inspection;
+        PRINT '>> Inserting Data Into: gold.fact_inspection';
+        INSERT INTO gold.fact_inspection (
+			inspection_id,
+			asset_id,
+			inspection_date,
+			thickness_in_mm,
+			inspection_type,
+			corrosion_rate,
+			corrosion_status,
+			result,
+			inspector
+		)
+		SELECT
+			ir.inspection_id,
+			da.asset_id,
+			dd.full_date AS inspection_date,
+			ir.thickness_in_mm,
+			ir.inspection_type,
+			ir.corrosion_rate,
+			ir.corrosion_status,
+			ir.result,
+			ir.inspector
+		FROM silver.insp_insp_rec ir
+		LEFT JOIN gold.dim_asset da
+			ON ir.asset_id = da.asset_id
+		LEFT JOIN gold.dim_date dd
+			ON ir.inspection_date = dd.full_date;
+		SET @end_time = GETDATE();
+        PRINT '>> Load Duration: ' + CAST(DATEDIFF(SECOND, @start_time, @end_time) AS NVARCHAR) + ' seconds';
+        PRINT '------------------------------------------------';
+		
+		-- Loading gold.fact_maintenance
+        SET @start_time = GETDATE();
+		PRINT '>> Truncating Table: gold.fact_maintenance';
+        TRUNCATE TABLE gold.fact_maintenance;
+        PRINT '>> Inserting Data Into: gold.fact_maintenance';
+        INSERT INTO gold.fact_maintenance (
+			work_order_id,
+			report_date,
+			asset_id,
+			failure_mode,
+			status,
+			priority,
+			cost_in_usd,
+			department
+		)
+		SELECT
+			mr.work_order_id,
+			dd.full_date AS report_date,
+			da.asset_id,
+			mr.failure_mode,
+			mr.status,
+			mr.priority,
+			mr.cost_in_usd,
+			ddp.department
+		FROM silver.mtce_mtce_rec mr
+		LEFT JOIN gold.dim_date dd
+			ON mr.report_date = dd.full_date
+		LEFT JOIN gold.dim_asset da
+			ON mr.asset_id = da.asset_id
+		LEFT JOIN gold.dim_department ddp
+			ON mr.department = ddp.department;
+		SET @end_time = GETDATE();
+        PRINT '>> Load Duration: ' + CAST(DATEDIFF(SECOND, @start_time, @end_time) AS NVARCHAR) + ' seconds';
         PRINT '------------------------------------------------';
 
 		SET @batch_end_time = GETDATE();
