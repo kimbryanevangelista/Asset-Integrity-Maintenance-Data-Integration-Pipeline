@@ -27,7 +27,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Kim Bryan Evangelista**, you can call me **Kim**. I’m an Asset Integrity professional leveraging SQL to transition into data analytics and engineering. This project is part of my hands-on upskilling journey through the **Data with Baraa** SQL bootcamp.
+Hi there! I'm **Kim Bryan Evangelista**, you can call me **Kim**. I’m an Asset Integrity professional leveraging SQL to transition into data analytics and engineering.
 
 Let's stay in touch! Feel free to connect with me on the following platform:
 
