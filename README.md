@@ -12,7 +12,7 @@ Building a modern data warehouse with SQL Server, including ETL process, data mo
 
 
 
-## BI: Analytics & Reporting (Data Analytics)
+## 📈 BI: Analytics & Reporting (Data Analytics)
 
 
 ## 🏗️ Data Architecture
