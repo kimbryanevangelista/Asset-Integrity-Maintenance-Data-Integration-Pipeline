@@ -2,23 +2,23 @@
 Building a modern data warehouse with SQL Server, including ETL process, data modelling, and analytics.
 
 
-## Project Overview
+## 📖 Project Overview
 
 
-## Important Links & Tools
+## 🛠️ Important Links & Tools
 
 
-## Project Requirements
+## 🚀 Project Requirements
 
 
 
 ## BI: Analytics & Reporting (Data Analytics)
 
 
-## Data Architecture
+## 🏗️ Data Architecture
 
 
-## Repository Structure
+## 📂 Repository Structure
 
 
 
