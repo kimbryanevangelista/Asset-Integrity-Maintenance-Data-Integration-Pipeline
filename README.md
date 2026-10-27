@@ -11,6 +11,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## 🚀 Project Summary
 
+The **Asset Reliability & Cost Optimization Analysis** dashboard is an executive-ready, end-to-end business intelligence solution designed to bridge the gap between industrial asset health and financial expenditure. Built on a modernized **Gold-layer star schema**, this dashboard empowers reliability engineers, maintenance planners, and plant managers to track maintenance costs over time, evaluate asset corrosion degradation, and audit work order priority distribution through a unified, interactive interface.
 
 ## Problem Statement
 Plant operations lacked centralized visibility into asset degradation and maintenance data, resulting in corrosion risk blind spots, unmonitored spending, unplanned downtime, and poor work order prioritization.
