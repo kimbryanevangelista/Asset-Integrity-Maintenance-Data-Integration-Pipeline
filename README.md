@@ -24,6 +24,8 @@ Plant operations lacked centralized visibility into asset degradation, leading t
 ## 📈 BI: Analytics & Reporting (Data Analytics)
 
 
+![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e4abfc73fd7c2431edd84cb9710c577b2b4d9df4/images/portfolio_powerbi_dashboard.png)
+
 ## 🏗️ Data Architecture
 
 
