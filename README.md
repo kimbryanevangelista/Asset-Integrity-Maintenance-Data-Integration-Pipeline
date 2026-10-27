@@ -23,8 +23,9 @@ Plant operations lacked centralized visibility into asset degradation, leading t
 
 ## 📈 BI: Analytics & Reporting (Data Analytics)
 
-
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e4abfc73fd7c2431edd84cb9710c577b2b4d9df4/images/portfolio_powerbi_dashboard.png)
+
+## Buisiness Insights & Recommendations
 
 ## 🏗️ Data Architecture
 
@@ -39,44 +40,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ## 📂 Repository Structure
-
-data-warehouse-project/
-│
-├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
-│
-├── docs/                               # Project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
-│   ├── data\\\\\\\\\\\\\\\_architecture.drawio        # Draw.io file shows the project's architecture
-│   ├── data\\\\\\\\\\\\\\\_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data\\\\\\\\\\\\\\\_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data\\\\\\\\\\\\\\\_models.drawio              # Draw.io file for data models (star schema)
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
-│
-├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Scripts for extracting and loading raw data
-│   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/                           # Scripts for creating analytical models
-│
-├── tests/                              # Test scripts and quality files
-│
-├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
