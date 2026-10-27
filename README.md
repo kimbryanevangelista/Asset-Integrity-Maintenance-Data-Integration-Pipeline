@@ -13,7 +13,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 
 ## Problem Statement
-Plant operations lacked centralized visibility into asset degradation, leading to reactive maintenance, unplanned downtime, and unmonitored maintenance spending across departments.
+Plant operations lacked centralized visibility into asset degradation and maintenance data, resulting in corrosion risk blind spots, unmonitored spending, unplanned downtime, and poor work order prioritization.
 
 ## Project Requirements
 
@@ -25,7 +25,11 @@ Plant operations lacked centralized visibility into asset degradation, leading t
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e4abfc73fd7c2431edd84cb9710c577b2b4d9df4/images/portfolio_powerbi_dashboard.png)
 
-## Buisiness Insights & Recommendations
+## Business Insights & Recommendations
+1. **Risk Mitigation**: Pinpoints high corrosion rates early to prevent critical failures.
+2. **Cost Management**: Identifies budget drain across departments and recurring failure patterns.
+3. **Operational Efficiency**: Moves teams from reactive fixing to planned, data-driven inspection schedules.
+
 
 ## 🏗️ Data Architecture
 
