@@ -27,7 +27,7 @@ Plant operations lacked centralized visibility into asset degradation, leading t
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e4abfc73fd7c2431edd84cb9710c577b2b4d9df4/images/portfolio_powerbi_dashboard.png)
 
 ## 🏗️ Data Architecture
-![image alter](
+![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/0fde80c425f2be9a788cdb1206f3b8ea262c6304/images/AI%26M_Architecture.png)
 
 ## 📂 Repository Structure
 
