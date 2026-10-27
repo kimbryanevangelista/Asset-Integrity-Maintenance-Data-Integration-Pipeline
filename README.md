@@ -1,4 +1,4 @@
-# Asset-Reliability-&-Cost-Optimization-Analysis
+# Asset Reliability & Cost Optimization Analysis
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
@@ -18,9 +18,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### Specifications
 
-**Datasets**: The dataset, sourced thru AI prompting, covers inspection and maintenance records from 2024 to 2025 across 6 asset id (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. Imported data from two source systems (INSP and MTCE) provided as CSV files.
-
-
+1. **Data Source**: The dataset, sourced thru AI prompting, covers inspection and maintenance records from 2024 to 2025 across 6 asset ids (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. Imported data from two source systems (INSP and MTCE) provided as CSV files.
+2. **Data Architecture**: Designing a modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
+3. **ETL Pipelines**: Extracting, transforming and loading data from source systems into the warehouse.
+4. **Data Modeling**: Develop fact and dimension tables for analytical queries.
+5. **Analytics & Reporting** Creating SQL-based reports (SQL Server) and dashboards (PowerBI) for actionable insights.
 
 ## 📈 BI: Analytics & Reporting (Data Analytics)
 
@@ -42,11 +44,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 1. **Bronze Layer**: Stores raw data (as-is) from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
-
-## 📂 Repository Structure
-
-
-
 
 ## 🛡️ License
 
