@@ -41,14 +41,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ## 📂 Repository Structure
 
-asset-integrity-analytics/
-├── assets/                    # Dashboard screenshots and UI imagery
-│   ├── dashboard_overview.png # Main executive analytics view
-│   └── priority_chart.png     # Work order priority breakdown visual
-├── data/                      # Sample datasets or mock data sources
-├── dax/                       # Custom DAX formulas and calculated columns
-│   └── priority_labels.dax    # SWITCH statements for priority categorization
-└── README.md                  # Project overview, architecture, and business impact
 
 
 
