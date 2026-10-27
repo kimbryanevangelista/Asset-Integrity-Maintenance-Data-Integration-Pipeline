@@ -20,9 +20,8 @@ Develop a modern data warehouse using SQL Server to consolidate inspection and m
 
 1. **Data Source**: The dataset, sourced thru AI prompting, covers inspection and maintenance records from 2024 to 2025 across 6 asset ids (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. Imported data from two source systems (INSP and MTCE) provided as CSV files.
 2. **Data Architecture**: Designing a modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
-3. **ETL Pipelines**: Extracting, transforming and loading data from source systems into the warehouse.
-4. **Data Modeling**: Develop fact and dimension tables for analytical queries.
-5. **Analytics & Reporting** Creating SQL-based reports (SQL Server) and dashboards (PowerBI) for actionable insights.
+3. **Analytics**: Creating SQL-based queries for extracting, transforming, and loading data from source systems and to develop fact and dimension tables for analytical queries.
+4. **Reporting** Creating Power BI dashboards for visualization and identification of actionable insights.
 
 ## 📈 BI: Analytics & Reporting (Data Analytics)
 
