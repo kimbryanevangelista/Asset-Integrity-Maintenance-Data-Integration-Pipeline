@@ -1,23 +1,24 @@
 # Asset-Integrity-Maintenance-Data-Integration-Pipeline
+
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-
-## 📖 Project Overview
-This project demonstrates a comprehensive data warehousing and analytics solution to generate actionable insights & recommendation to the given problem.
-
-
-## 🛠️ Important Links & Tools
-
 
 ## 🚀 Project Summary
 
 The **Asset Reliability & Cost Optimization Analysis** dashboard is an executive-ready, end-to-end business intelligence solution designed to bridge the gap between industrial asset health and financial expenditure. Built on a modernized **Gold-layer star schema**, this dashboard empowers reliability engineers, maintenance planners, and plant managers to track maintenance costs over time, evaluate asset corrosion degradation, and audit work order priority distribution through a unified, interactive interface.
 
 ## Problem Statement
+
 Plant operations lacked centralized visibility into asset degradation and maintenance data, resulting in corrosion risk blind spots, unmonitored spending, unplanned downtime, and poor work order prioritization.
 
 ## Project Requirements
 
+### Objective
 
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+### Specifications
+
+**Datasets**: The dataset, sourced thru AI prompting, covers inspection and maintenance records from 2024 to 2025 across 6 asset id (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. Imported data from two source systems (INSP and MTCE) provided as CSV files.
 
 
 
