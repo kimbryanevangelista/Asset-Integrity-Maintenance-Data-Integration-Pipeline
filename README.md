@@ -14,7 +14,7 @@ Plant operations lacked centralized visibility into asset degradation and mainte
 
 ### Objective
 
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+Develop a modern data warehouse using SQL Server to consolidate inspection and maintenance data, enabling analytical reporting and informed decision-making.
 
 ### Specifications
 
