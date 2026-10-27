@@ -27,7 +27,7 @@ Develop a modern data warehouse using SQL Server to consolidate inspection and m
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e4abfc73fd7c2431edd84cb9710c577b2b4d9df4/images/portfolio_powerbi_dashboard.png)
 
-## Business Insights & Recommendations
+## 💭 Business Insights & Recommendations
 1. **Risk Mitigation**: Pinpoints high corrosion rates early to trigger automated alerts and prevent critical asset failures.
 2. **Cost Management**: Shifts maintenance teams from reactive fixing to planned, data-driven inspection schedules.
 3. **Operational Efficiency**: Moves teams from reactive fixing to planned, data-driven inspection schedules.
