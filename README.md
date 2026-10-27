@@ -3,12 +3,21 @@ Building a modern data warehouse with SQL Server, including ETL process, data mo
 
 
 ## 📖 Project Overview
+This project demonstrates a comprehensive data warehousing and analytics solution to generate actionable insights & recommendation to the given problem.
 
 
 ## 🛠️ Important Links & Tools
 
 
-## 🚀 Project Requirements
+## 🚀 Project Summary
+
+
+## Problem Statement
+Plant operations lacked centralized visibility into asset degradation, leading to reactive maintenance, unplanned downtime, and unmonitored maintenance spending across departments.
+
+## Project Requirements
+
+
 
 
 
