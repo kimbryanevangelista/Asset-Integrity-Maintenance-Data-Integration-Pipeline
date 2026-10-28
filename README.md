@@ -25,7 +25,13 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ## BI: Analytics & Reporting (Data Analytics)
 
-![image alter](
+![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/105a035f7c1ac599dd2bdd1a72a767a61d376d20/images/work_order_status.png)
+
+![image alter]
+
+![image alter]
+
+![image alter]
 
 
 ## Business Insights & Recommendations
