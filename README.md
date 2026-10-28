@@ -42,7 +42,7 @@ The 22% failed inspection results cover 330 inspection activities with inspectio
 Overall, P-102 is the highest asset at risk with combined 20% inspection failure trend (spiking inspection effort in July 2024 and April 2025) and $60.89K total maintenance cost (spiking in April 2025) covering 324 total work orders with 19% unknown and 19% in-progress work order status and 2% unspecified & 3% critical work order priority.
 
 ## Recommendations
-1. Standardize work order logging standards to restore and maintain the 5% monthly threshold for untracked maintenance cost.
+1. Standardize work order logging standards to restore and maintain the 5% monthly threshold for untracked maintenance activities and it's corresponding cost.
 2. Optimize inspection strategies and prioritize assets with highest corrosion rate to minimize and eliminate recurring inspection failures.
 3. Allocate more maintenance budget and inspection efforts for assets with high corrosion rate and those with high failure trend.
 
