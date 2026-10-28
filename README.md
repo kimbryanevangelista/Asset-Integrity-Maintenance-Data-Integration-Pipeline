@@ -37,7 +37,7 @@ The 14% unspecified work order priority covers 288 work orders with a total of $
 
 The 22% failed inspection results cover 330 inspection activities with inspection effort spike in April 2024 and Oct 2025. V-501 has the highest average corrosion rate of 0.70 mills per year that could result to faster thickness thinning.
 
-![image alter](
+![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/a54f00cf377bf3eeeb7da3afa3c37a2b13f1356d/images/P-102_m%26i_status.png)
 
 Overall, P-102 is the highest asset at risk with combined 20% inspection failure trend (spiking inspection effort in July 2024 and April 2025) and $60.89K total maintenance cost (spiking in April 2025) covering 324 total work orders with 19% unknown and 19% in-progress work order status and 2% unspecified & 3% critical work order priority.
 
