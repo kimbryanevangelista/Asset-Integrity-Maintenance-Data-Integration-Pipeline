@@ -1,7 +1,5 @@
 # Asset Reliability & Cost Optimization Analysis
 
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-
 ## Project Summary
 
 The **Asset Reliability & Cost Optimization Analysis** is designed to bridge the gap between asset health through inspection and maintenance financial expenditure. The primary goal is to analyze maintenance costs over time, asset corrosion degradation evaluation, and work order prioritization to generate actionable insights to optimize asset reliability and cost efficiency.
