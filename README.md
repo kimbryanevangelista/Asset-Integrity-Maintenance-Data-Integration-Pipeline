@@ -25,6 +25,7 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ## BI: Analytics & Reporting (Data Analytics)
 
+![image alter](
 
 
 ## Business Insights & Recommendations
