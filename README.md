@@ -2,17 +2,17 @@
 
 ## Project Summary
 
-The **Asset Reliability & Cost Optimization Analysis** is designed to bridge the gap between asset health through inspection and maintenance financial expenditure. The primary goal is to analyze maintenance costs over time, asset corrosion degradation evaluation, and work order prioritization to generate actionable insights to optimize asset reliability and cost efficiency.
+The **Asset Reliability & Cost Optimization Analysis** is designed to bridge the gap between asset health through inspection and maintenance financial expenditure. The primary goal is to analyze maintenance costs over time and asset corrosion degradation evaluation to generate actionable insights to optimize asset reliability and maintenance spending.
 
 ## Problem Statement
 
-Maintenance supports inspection activities reactively, which makes inefficient costing/budgeting due to integrity-related findings after inspection assessment. 
+Operational cost control and asset reliability are severely compromised by untracked maintenance activities (17% unknown statuses, 14% unspecified priorities) and an unacceptable 22% inspection failure rate, far breaching our 5% logging limit and zero-failure standard.
 
 ## Project Requirements
 
 ### Objective
 
-Identify which asset to prioritize based on current corrosion rate and failure modes. Develop cost-efficient maintenance plans based on inspection results and assessments.
+Enforce data entry controls to reduce unclassified work orders below the 5% threshold, establishing full visibility over maintenance spend while executing targeted inspection workflows to drive the 22% failure rate down toward zero.
 
 ### Specifications
 
