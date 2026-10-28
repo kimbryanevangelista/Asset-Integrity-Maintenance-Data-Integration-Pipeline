@@ -25,15 +25,15 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ## Key Analysis & Visualization
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/105a035f7c1ac599dd2bdd1a72a767a61d376d20/images/work_order_status.png)
+![image alter](
 
 The 17% unknown work order status covers 337 work orders with a total of $61.97K untracked maintenance cost with spending spike on January 2025 and October 2025.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/d2f206f355abfa2436037933088bd575be19bb31/images/work_order_priority.png)
+![image alter](
 
 The 14% unspecified work order priority covers 288 work orders with a total of $52.45K untracked maintenance cost with spending spike on October 2024.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/116869296dc3286d31aeb1c64197caaa28970986/images/fail_inspection_result.png)
+![image alter](
 
 The 22% failed inspection results cover 330 inspection activities with inspection effort spike in April 2024 and Oct 2025. V-501 has the highest average corrosion rate of 0.70 mills per year that could result to faster thickness thinning.
 
