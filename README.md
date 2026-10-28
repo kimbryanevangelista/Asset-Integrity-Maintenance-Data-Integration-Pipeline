@@ -8,7 +8,7 @@ The **Asset Reliability & Cost Optimization Analysis** is designed to bridge the
 
 ## Problem Statement
 
-Operational cost control and asset reliability are severely compromised by untracked maintenance activities (17% unknown statuses, 14% unspecified priorities) and an unacceptable 22% inspection failure rate, far breaching our 5% logging limit and zero-failure standard.
+Operational cost control and asset reliability are severely compromised by untracked maintenance activities with corresponding costs (17% unknown statuses, 14% unspecified priorities) and an unacceptable 22% inspection failure rate, far breaching our 5% logging limit and zero-failure standard.
 
 ## Project Requirements
 
