@@ -1,6 +1,6 @@
 # Asset Reliability & Cost Optimization Analysis
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e14fb52d1972241067b0628d125425dc7e296c32/images/portfolio_powerbi_dashboard.png)
+![image alter](
 
 ## Project Summary
 
@@ -25,19 +25,19 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ## Key Analysis & Visualization
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/439e1603024f46d803c20e5b81ccb2992b437c2d/images/status_work_order.png)
+![image alter](
 
 The 17% unknown work order status covers 337 work orders with a total of $61.97K untracked maintenance cost with spending spike on January 2025 and October 2025.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/f211ddf9baa7859a8a3bc375d33fe76d671e5cc4/images/priority_work_order.png)
+![image alter](
 
 The 14% unspecified work order priority covers 288 work orders with a total of $52.45K untracked maintenance cost with spending spike on October 2024.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/53788d76d7b158b1591d9de13f8bf934c6292c25/images/inspection_result_fail.png)
+![image alter](
 
 The 22% failed inspection results cover 330 inspection activities with inspection effort spike in April 2024 and Oct 2025. V-501 has the highest average corrosion rate of 0.70 mills per year that could result to faster thickness thinning.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/c092eb3235b822a14e3dca77cf61ff9d7b2dd3c9/images/P-102_overall_status.png)
+![image alter](
 
 Overall, P-102 is the highest asset at risk with combined 20% inspection failure trend (spiking inspection effort in July 2024 and April 2025) and $60.89K total maintenance cost (spiking in April 2025) covering 324 total work orders with 19% unknown and 19% in-progress work order status and 2% unspecified & 3% critical work order priority.
 
