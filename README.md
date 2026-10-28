@@ -23,24 +23,28 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 3. **Analytics**: Create SQL-based (SQL Server) queries for extracting, transforming, and loading data from source systems and to develop fact and dimension tables for analytical queries. [View Script Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts) Create queries for quality check (data validation), refer to this folder. [View Tests Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
 4. **Reporting** Create Power BI dashboards for visualization and identification of actionable insights.
 
-## BI: Analytics & Reporting (Data Analytics)
+## Key Analysis & Visualization
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/105a035f7c1ac599dd2bdd1a72a767a61d376d20/images/work_order_status.png)
 
-
+The 17% unknown work order status covers 337 work orders with a total of $61.97K untracked maintenance cost with spending spike on January 2025 and October 2025.
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/d2f206f355abfa2436037933088bd575be19bb31/images/work_order_priority.png)
 
+The 14% unspecified work order priority covers 288 work orders with a total of $52.45K untracked maintenance cost with spending spike on October 2024.
+
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/116869296dc3286d31aeb1c64197caaa28970986/images/fail_inspection_result.png)
+
+The 22% failed inspection results cover 330 inspection activities with inspection effort spike in April 2024 and Oct 2025. V-501 has the highest average corrosion rate of 0.70 mills per year that could result to faster thickness thinning.
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/c092eb3235b822a14e3dca77cf61ff9d7b2dd3c9/images/P-102_overall_status.png)
 
+Overall, P-102 is the highest asset at risk with combined 20% inspection failure trend (spiking inspection effort in July 2024 and April 2025) and $60.89K total maintenance cost (spiking in April 2025) covering 324 total work orders with 19% unknown and 19% in-progress work order status and 2% unspecified & 3% critical work order priority.
 
-## Business Insights & Recommendations
-1. **Risk Mitigation**: Pinpoints high corrosion rates early to trigger automated alerts and prevent critical asset failures.
-2. **Cost Management**: Shifts maintenance teams from reactive fixing to planned, data-driven inspection schedules.
-3. **Operational Efficiency**: Moves teams from reactive fixing to planned, data-driven inspection schedules.
-4. **Data Governance**: Enforces mandatory priority tagging in CMMS/ERP software to eliminate unassigned work orders.
+## Recommendations
+1. Standardize work order logging standards to restore and maintain 5% monthly threshold for untracked maintenance cost.
+2. Optimize inspection strategies and prioritize assets with highest corrosion rate to minimize and eliminate recurring inspection failures.
+3. Allocate more budget and inspection efforts for assets with high corrosion rate and which have high failure trend.
 
 
 ## Data Architecture
