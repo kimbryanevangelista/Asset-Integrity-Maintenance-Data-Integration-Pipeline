@@ -28,6 +28,7 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/105a035f7c1ac599dd2bdd1a72a767a61d376d20/images/work_order_status.png)
 
 
+
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/d2f206f355abfa2436037933088bd575be19bb31/images/work_order_priority.png)
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/116869296dc3286d31aeb1c64197caaa28970986/images/fail_inspection_result.png)
