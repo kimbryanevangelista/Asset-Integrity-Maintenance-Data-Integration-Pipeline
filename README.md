@@ -25,7 +25,7 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ## Key Analysis & Visualization
 
-![image alter](
+![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/439e1603024f46d803c20e5b81ccb2992b437c2d/images/status_work_order.png)
 
 The 17% unknown work order status covers 337 work orders with a total of $61.97K untracked maintenance cost with spending spike on January 2025 and October 2025.
 
