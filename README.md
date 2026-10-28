@@ -1,5 +1,7 @@
 # Asset Reliability & Cost Optimization Analysis
 
+![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e4abfc73fd7c2431edd84cb9710c577b2b4d9df4/images/portfolio_powerbi_dashboard.png)
+
 ## Project Summary
 
 The **Asset Reliability & Cost Optimization Analysis** is designed to bridge the gap between asset health through inspection and maintenance financial expenditure. The primary goal is to analyze maintenance costs over time and asset corrosion degradation evaluation to generate actionable insights to optimize asset reliability and maintenance spending.
@@ -23,7 +25,7 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ## BI: Analytics & Reporting (Data Analytics)
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e4abfc73fd7c2431edd84cb9710c577b2b4d9df4/images/portfolio_powerbi_dashboard.png)
+
 
 ## Business Insights & Recommendations
 1. **Risk Mitigation**: Pinpoints high corrosion rates early to trigger automated alerts and prevent critical asset failures.
