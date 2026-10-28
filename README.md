@@ -33,7 +33,7 @@ The 17% unknown work order status covers 337 work orders with a total of $61.97K
 
 The 14% unspecified work order priority covers 288 work orders with a total of $52.45K untracked maintenance cost with spending spike on October 2024.
 
-![image alter](
+![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/53788d76d7b158b1591d9de13f8bf934c6292c25/images/inspection_result_fail.png)
 
 The 22% failed inspection results cover 330 inspection activities with inspection effort spike in April 2024 and Oct 2025. V-501 has the highest average corrosion rate of 0.70 mills per year that could result to faster thickness thinning.
 
