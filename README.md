@@ -1,6 +1,6 @@
 # Asset Reliability & Cost Optimization Analysis
 
-![image alter](
+![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e14fb52d1972241067b0628d125425dc7e296c32/images/portfolio_powerbi_dashboard.png)
 
 ## Project Summary
 
