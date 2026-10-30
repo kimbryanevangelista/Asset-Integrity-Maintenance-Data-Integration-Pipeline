@@ -1,4 +1,4 @@
-# Asset Reliability & Cost Optimization Analysis
+# **Behind the Corrosion**: Telling the Financial Story of Asset Health
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e9490508930d6b0a07d5a407b1f05d5ddf420102/images/powerbi_dashboard.png)
 
@@ -18,10 +18,10 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ### Specifications
 
-1. **Data Source**: The dataset, sourced thru AI prompting in the form of CSV files, covers inspection and maintenance records from 2024 to 2025 across 6 asset ids (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. [View Dataset Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/datasets)
-2. **Data Architecture**: Design a modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
-3. **Analytics**: Create SQL-based (SQL Server) queries for extracting, transforming, and loading data from source systems and to develop fact and dimension tables for analytical queries. [View Script Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts) Create queries for quality check (data validation), refer to this folder. [View Tests Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
-4. **Reporting** Create Power BI dashboards for visualization and identification of actionable insights.
+1. **Data Source**: The dataset covers inspection and maintenance records from 2024 to 2025 across 6 asset ids (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. [View Dataset Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/datasets)
+2. **Data Architecture**: Modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
+3. **Analytics**: SQL-based (SQL Server) queries for extracting, transforming, and loading data from source systems and development of fact and dimension tables for analytical queries. [View Script Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts) Create queries for quality check (data validation), refer to this folder. [View Tests Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
+4. **Reporting** Power BI dashboards for visualization and identification of actionable insights.
 
 ## Key Analysis & Visualization
 
