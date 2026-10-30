@@ -31,20 +31,21 @@ The 17% unknown work order status covers 337 work orders with a total of $61.97K
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/db266afabeed93973b4a3395b8eab5d0f5f49314/images/wo_priority.png)
 
-The 14% unspecified work order priority covers 288 work orders with a total of $52.45K untracked maintenance cost with spending spike on October 2024.
+The 14% unspecified work order priority covers 288 work orders with a total of $52.45K untracked maintenance cost with spending spike in October 2024 and Dec 2025.
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/5649613b11b6fd0de04dc98fd2618acf358263f7/images/fail_insp_result.png)
 
-The 22% failed inspection results cover 330 inspection activities with inspection effort spike in April 2024 and Oct 2025. V-501 has the highest average corrosion rate of 0.70 mills per year that could result to faster thickness thinning.
+The 22% failed inspection results cover 330 inspection activities with inspection effort spike in April 2024 and December 2025. V-501 has the highest average corrosion rate of 0.70 mills per year that could result to faster thickness thinning.
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/a54f00cf377bf3eeeb7da3afa3c37a2b13f1356d/images/P-102_m%26i_status.png)
 
-Overall, P-102 is the highest asset at risk with combined 20% inspection failure trend (spiking inspection effort in July 2024 and April 2025) and $60.89K total maintenance cost (spiking in April 2025) covering 324 total work orders with 19% unknown and 19% in-progress work order status and 2% unspecified & 3% critical work order priority.
+Overall, P-102 is the highest asset at risk with combined 20% inspection failure trend (spiking inspection effort in February 2025 and September 2025) and $60.89K total maintenance cost (spiking in May 2025 and September 2025) covering 324 total work orders with 19% unknown and 19% in-progress work order status and 2% unspecified & 3% critical work order priority.
 
 ## Recommendations
-1. Standardize work order logging standards to restore and maintain the 5% monthly threshold for untracked maintenance activities and it's corresponding cost.
-2. Optimize inspection strategies and prioritize assets with highest corrosion rate to minimize and eliminate recurring inspection failures.
-3. Allocate more maintenance budget and inspection efforts for assets with high corrosion rate and those with high failure trend.
+1. Standardize work order logging protocols to achieve a 100% weekly logging rate, successfully restoring and maintaining untracked maintenance activities and associated costs below the 5% monthly threshold.
+2. Optimize inspection strategies by prioritizing high-risk assets with corrosion rates $\ge 0.60$ mils per year (mpy), improving risk mitigation and resource allocation.
+3. Conduct in-depth Risk-Based Inspection (RBI) analysis on 'Leak' failure modes and optimize repair strategies to reduce failure trends by 50% over the next 12 months.
+4. Strengthened inspection review processes and maintained a backlog of <=3 pending inspection results monthly..
 
 
 ## Data Architecture
