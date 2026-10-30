@@ -45,7 +45,7 @@ Overall, P-102 is the highest asset at risk with combined 20% inspection failure
 1. Standardize work order logging protocols to achieve a 100% weekly logging rate, successfully restoring and maintaining untracked maintenance activities and associated costs below the 5% monthly threshold.
 2. Optimize inspection strategies by prioritizing high-risk assets with corrosion rates $\ge 0.60$ mils per year (mpy), improving risk mitigation and resource allocation.
 3. Conduct in-depth Risk-Based Inspection (RBI) analysis on 'Leak' failure modes and optimize repair strategies to reduce failure trends by 50% over the next 12 months.
-4. Strengthen inspection review processes and maintain a backlog of $\le 3$ pending review of inspection results monthly.
+4. Strengthen inspection review processes and maintain a monthly backlog of $\le 3$ "pending review" status in inspection results.
 
 
 ## Data Architecture
