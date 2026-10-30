@@ -1,4 +1,5 @@
-# **Mitigating Risk, Maximizing Value**: Asset Reliability & Cost Optimization Analysis
+# **Mitigating Risk, Maximizing Value**: 
+## Asset Reliability & Cost Optimization Analysis
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e9490508930d6b0a07d5a407b1f05d5ddf420102/images/powerbi_dashboard.png)
 
