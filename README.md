@@ -4,7 +4,7 @@
 
 ## Project Summary
 
-This project integrates asset integrity inspection data with maintenance cost metrics to evaluate long-term corrosion degradation and financial spend. The resulting insights enable data-driven decision-making to enhance asset reliability and optimize operational expenditures.
+Behind every unexpected asset failure lies a hidden trend in historical inspection and cost data. By uniting corrosion degradation metrics with maintenance expenditures, this project turns complex integrity data into actionable, cost-saving strategies.
 
 ## Problem Statement
 
