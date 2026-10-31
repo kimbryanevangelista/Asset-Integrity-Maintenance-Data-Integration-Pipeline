@@ -1,0 +1,1 @@
+Raw data was ingested into Microsoft SQL Server using native SQL import tools to establish the initial Bronze staging layer.
