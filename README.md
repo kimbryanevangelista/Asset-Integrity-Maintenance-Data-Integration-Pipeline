@@ -27,19 +27,19 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/3027377262b865c94b0a4c5bd9f8573f20c9b0d3/images/wo_status.png)
 
-The 17% unknown work order status covers 337 work orders with a total of $61.97K untracked maintenance cost with spending spike on January 2025 and October 2025.
+The 17% unknown work order statuses cover 337 work orders with a total of $61.97K untracked maintenance cost with spending peaked in January 2025 and October 2025.
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/db266afabeed93973b4a3395b8eab5d0f5f49314/images/wo_priority.png)
 
-The 14% unspecified work order priority covers 288 work orders with a total of $52.45K untracked maintenance cost with spending spike in October 2024 and Dec 2025.
+The 14% unspecified work order priorities cover 288 work orders with a total of $52.45K untracked maintenance cost with spending peaked in October 2024 and Dec 2025.
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/5649613b11b6fd0de04dc98fd2618acf358263f7/images/fail_insp_result.png)
 
-The 22% failed inspection results cover 330 inspection activities with inspection effort spike in April 2024 and December 2025. V-501 has the highest average corrosion rate of 0.70 mills per year that could result to faster thickness thinning.
+The 22% failed inspection results cover 330 inspection activities with inspection effort peaked in April 2024 and December 2025. V-501 has the highest average corrosion rate of 0.70 mils per year (mpy), posing an elevated risk of accelerated wall thinning.
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/a54f00cf377bf3eeeb7da3afa3c37a2b13f1356d/images/P-102_m%26i_status.png)
 
-Overall, P-102 is the highest asset at risk with combined 20% inspection failure trend (spiking inspection effort in February 2025 and September 2025) and $60.89K total maintenance cost (spiking in May 2025 and September 2025) covering 324 total work orders with 19% unknown and 19% in-progress work order status and 2% unspecified & 3% critical work order priority.
+Asset P-102 represents the highest overall operational and financial risk. The asset exhibits a 20% inspection failure rate, driven by aggressive activity spikes in February 2025 and September 2025. Financed with $60.89K in total maintenance spend across 324 work orders, spending peaked sharply in May 2025 and September 2025. Operational risk is further compounded by critical governance gaps: 38% of work orders remain unresolved (19% unknown and 19% in-progress), while 5% carry high-risk classification (3% critical priority and 2% unspecified).
 
 ## Recommendations
 1. Standardize work order logging protocols to achieve a 100% weekly logging rate, successfully restoring and maintaining untracked maintenance activities and associated costs below the 5% monthly threshold.
