@@ -8,8 +8,7 @@ This project integrates asset integrity inspection data with maintenance cost me
 
 ## Problem Statement
 
-Operational cost control and asset reliability are severely compromised by untracked maintenance activities with corresponding costs 
-1. 31% unlogged work orders (17% unknown statuses and 14% unspecified priorities) against 5% monthly threshold, and
+1. 31% unclassified work orders (17% unknown statuses and 14% unspecified priorities) against 5% monthly threshold, and
 2. 22% inspection failure rate against zero-failure standard
 
 ## Project Requirements
@@ -22,8 +21,9 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 1. **Data Source**: Synthetic dataset prompted from AI. The dataset covers inspection and maintenance records from 2024 to 2025 across 6 asset ids (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. [Link to Dataset](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/datasets)
 2. **Data Architecture**: Create modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
-3. **Analytics**: Create SQL-based (Microsoft SQL Server) queries for extracting, transforming, and loading data from source systems and develop fact and dimension tables for analytical queries. [View Script Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts) Create queries for quality check (data validation), refer to this folder. [View Tests Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
-4. **Reporting**: Create Power BI dashboards for visualization and identification of actionable insights.
+3. **Analytics**: Create SQL-based (Microsoft SQL Server) queries for extracting, transforming, and loading data from source systems and develop fact and dimension tables for analytical queries. [Link to Scripts](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts)
+4. **Validation**: Create SQL-based (Microsoft SQL Server) queries for quality check. [Link to Test Scripts](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
+5. **Reporting**: Create Power BI dashboards for visualization and identification of actionable insights. [Link to Poer BI dashoard](
 
 ## Key Analysis & Visualization
 
