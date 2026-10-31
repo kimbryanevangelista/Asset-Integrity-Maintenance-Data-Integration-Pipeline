@@ -23,7 +23,7 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 2. **Data Architecture**: Create modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 3. **Analytics**: Create SQL-based (Microsoft SQL Server) queries for extracting, transforming, and loading data from source systems and develop fact and dimension tables for analytical queries. [Link to Scripts](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts)
 4. **Validation**: Create SQL-based (Microsoft SQL Server) queries for quality check. [Link to Test Scripts](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
-5. **Reporting**: Create Power BI dashboards for visualization and identification of actionable insights. [Link to Poer BI dashoard](
+5. **Reporting**: Create Power BI dashboards for visualization and identification of actionable insights. [Link to Power BI dashoard](
 
 ## Key Analysis & Visualization
 
