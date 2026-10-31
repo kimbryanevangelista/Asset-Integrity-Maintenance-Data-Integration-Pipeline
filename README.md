@@ -8,7 +8,7 @@ Behind every unexpected asset failure lies a hidden trend in historical inspecti
 
 ## Problem Statement
 
-Operational cost control and asset reliability are severely compromised by untracked maintenance activities with corresponding costs (17% unknown statuses, 14% unspecified priorities) and an unacceptable 22% inspection failure rate, far breaching our 5% logging limit and zero-failure standard.
+Operational cost control and asset reliability are severely compromised by untracked maintenance activities with corresponding costs (17% unknown work order statuses, 14% unspecified work order priorities) and an unacceptable 22% inspection failure rate, far breaching our 5% logging limit and zero-failure standard.
 
 ## Project Requirements
 
@@ -19,9 +19,9 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 ### Specifications
 
 1. **Data Source**: The dataset covers inspection and maintenance records from 2024 to 2025 across 6 asset ids (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. [View Dataset Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/datasets)
-2. **Data Architecture**: Modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
-3. **Analytics**: SQL-based (SQL Server) queries for extracting, transforming, and loading data from source systems and development of fact and dimension tables for analytical queries. [View Script Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts) Create queries for quality check (data validation), refer to this folder. [View Tests Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
-4. **Reporting** Power BI dashboards for visualization and identification of actionable insights.
+2. **Data Architecture**: Create modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
+3. **Analytics**: Create SQL-based (SQL Server) queries for extracting, transforming, and loading data from source systems and develop fact and dimension tables for analytical queries. [View Script Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts) Create queries for quality check (data validation), refer to this folder. [View Tests Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
+4. **Reporting** Create Power BI dashboards for visualization and identification of actionable insights.
 
 ## Key Analysis & Visualization
 
