@@ -1,9 +1,6 @@
 # **Mitigating Risk to Unleash Maximum Value**
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e9490508930d6b0a07d5a407b1f05d5ddf420102/images/powerbi_dashboard.png)
-
 <img width="1348" height="759" alt="power_bi_dashboard" src="https://github.com/user-attachments/assets/6e28a0fa-9bfa-461e-a07a-2ee8ad40e7d2" />
-
 
 ## Project Summary
 
@@ -30,19 +27,19 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 
 ## Key Analysis & Visualization
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/3027377262b865c94b0a4c5bd9f8573f20c9b0d3/images/wo_status.png)
+<img width="666" height="646" alt="17%_unknown_work_order_status" src="https://github.com/user-attachments/assets/014ff949-0a8e-4ca5-a810-cc27d80756f4" />
 
 The 17% unknown work order statuses cover 337 work orders with a total of $61.97K untracked maintenance cost with spending peaked in January 2025 and October 2025.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/db266afabeed93973b4a3395b8eab5d0f5f49314/images/wo_priority.png)
+<img width="667" height="648" alt="14%_unspecified_work_order_priority" src="https://github.com/user-attachments/assets/42f53314-1360-465d-958f-e91ca988a35f" />
 
 The 14% unspecified work order priorities cover 288 work orders with a total of $52.45K untracked maintenance cost with spending peaked in October 2024 and Dec 2025.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/5649613b11b6fd0de04dc98fd2618acf358263f7/images/fail_insp_result.png)
+<img width="664" height="646" alt="22%_failed_inspection_result" src="https://github.com/user-attachments/assets/a2544c75-87d8-4daa-bb8f-b8ce410fe91b" />
 
 The 22% failed inspection results cover 330 inspection activities with inspection effort peaked in April 2024 and December 2025. V-501 has the highest average corrosion rate of 0.70 mils per year (mpy), posing an elevated risk of accelerated wall thinning.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/a54f00cf377bf3eeeb7da3afa3c37a2b13f1356d/images/P-102_m%26i_status.png)
+<img width="1303" height="805" alt="AI M_Architecture_v2" src="https://github.com/user-attachments/assets/12037c44-c27c-49ad-af94-d4aa79e668ac" />
 
 Asset P-102 represents the highest overall operational and financial risk. The asset exhibits a 20% inspection failure rate, driven by aggressive activity spikes in February 2025 and September 2025. Financed with $60.89K in total maintenance spend across 324 work orders, spending peaked sharply in May 2025 and September 2025. Operational risk is further compounded by critical governance gaps: 38% of work orders remain unresolved (19% unknown and 19% in-progress), while 5% carry high-risk classification (3% critical priority and 2% unspecified).
 
