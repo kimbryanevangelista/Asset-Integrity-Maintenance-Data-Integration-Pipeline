@@ -1,6 +1,6 @@
 # **Mitigating Risk to Unleash Maximum Value**
 
-<img width="1348" height="759" alt="power_bi_dashboard" src="https://github.com/user-attachments/assets/6e28a0fa-9bfa-461e-a07a-2ee8ad40e7d2" />
+<img width="1348" height="760" alt="power_bi_dashboard" src="https://github.com/user-attachments/assets/48465a25-ec41-487b-95da-66ce19c5a5ac" />
 
 ## Project Summary
 
