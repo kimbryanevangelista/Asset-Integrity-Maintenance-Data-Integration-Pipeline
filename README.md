@@ -8,6 +8,7 @@ This project integrates asset integrity inspection data with maintenance cost me
 
 ## Problem Statement
 
+Analysis of maintenance and asset integrity records identifies two major policy non-conformances:
 1. 31% unclassified work orders (17% unknown statuses and 14% unspecified priorities) against 5% monthly threshold, and
 2. 22% inspection failure rate against zero-failure standard
 
