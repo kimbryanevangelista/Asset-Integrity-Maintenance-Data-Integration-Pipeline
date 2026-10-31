@@ -2,6 +2,9 @@
 
 ![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/e9490508930d6b0a07d5a407b1f05d5ddf420102/images/powerbi_dashboard.png)
 
+<img width="1348" height="759" alt="power_bi_dashboard" src="https://github.com/user-attachments/assets/6e28a0fa-9bfa-461e-a07a-2ee8ad40e7d2" />
+
+
 ## Project Summary
 
 This project integrates asset integrity inspection data with maintenance cost metrics to evaluate long-term corrosion degradation and financial spend. The resulting insights enable data-driven decision-making to enhance asset reliability and optimize operational expenditures.
