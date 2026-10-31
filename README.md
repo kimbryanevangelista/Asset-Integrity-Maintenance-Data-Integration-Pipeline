@@ -20,14 +20,14 @@ Enforce data entry controls to reduce unclassified work orders below the 5% thre
 ### Specifications & Methodologies
 
 1. **Data Source**: Synthetic dataset prompted from AI. The dataset covers inspection and maintenance records from 2024 to 2025 across 6 asset ids (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. [Link to Dataset](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/datasets)
-2. **Data Architecture**: Create modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
-3. **Analytics**: Create SQL-based (Microsoft SQL Server) queries for extracting, transforming, and loading data from source systems and develop fact and dimension tables for analytical queries. [Link to Scripts](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts)
-4. **Validation**: Create SQL-based (Microsoft SQL Server) queries for quality check. [Link to Test Scripts](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
+2. **Data Architecture**: Modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
+3. **Analytics**: SQL-based (Microsoft SQL Server) queries for extracting, transforming, and loading data from source systems. Develop fact and dimension tables for analytical queries. [Link to Scripts](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/scripts)
+4. **Validation**: SQL-based (Microsoft SQL Server) queries for quality check. [Link to Test Scripts](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/tests)
 5. **Reporting**: Create Power BI dashboards for visualization and identification of actionable insights. [Link to Power BI dashoard](
 
 ## Key Analysis & Visualization
 
-<img width="666" height="646" alt="17%_unknown_work_order_status" src="https://github.com/user-attachments/assets/014ff949-0a8e-4ca5-a810-cc27d80756f4" />
+<img width="667" height="646" alt="17%_unknown_work_order_status" src="https://github.com/user-attachments/assets/014ff949-0a8e-4ca5-a810-cc27d80756f4" />
 
 The 17% unknown work order statuses cover 337 work orders with a total of $61.97K untracked maintenance cost with spending peaked in January 2025 and October 2025.
 
