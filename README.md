@@ -39,7 +39,7 @@ The 14% unspecified work order priorities cover 288 work orders with a total of 
 
 The 22% failed inspection results cover 330 inspection activities with inspection effort peaked in April 2024 and December 2025. V-501 has the highest average corrosion rate of 0.70 mils per year (mpy), posing an elevated risk of accelerated wall thinning.
 
-<img width="1303" height="805" alt="AI M_Architecture_v2" src="https://github.com/user-attachments/assets/12037c44-c27c-49ad-af94-d4aa79e668ac" />
+<img width="1333" height="649" alt="P-102_overall_status" src="https://github.com/user-attachments/assets/6ffbd95d-9087-4315-92a4-abe3210b68de" />
 
 Asset P-102 represents the highest overall operational and financial risk. The asset exhibits a 20% inspection failure rate, driven by aggressive activity spikes in February 2025 and September 2025. Financed with $60.89K in total maintenance spend across 324 work orders, spending peaked sharply in May 2025 and September 2025. Operational risk is further compounded by critical governance gaps: 38% of work orders remain unresolved (19% unknown and 19% in-progress), while 5% carry high-risk classification (3% critical priority and 2% unspecified).
 
@@ -54,7 +54,7 @@ Asset P-102 represents the highest overall operational and financial risk. The a
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 
-![image alter](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/blob/7c238c4174c42c97ebc098e48c8b3ed167164526/images/AI%26M_Architecture_v2.png)
+<img width="1303" height="805" alt="AI M_Architecture_v2" src="https://github.com/user-attachments/assets/12037c44-c27c-49ad-af94-d4aa79e668ac" />
 
 1. **Bronze Layer**: Stores raw data (as-is) from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
