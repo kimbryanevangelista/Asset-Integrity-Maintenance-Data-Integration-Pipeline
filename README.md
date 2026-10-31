@@ -16,7 +16,7 @@ Operational cost control and asset reliability are severely compromised by untra
 
 Enforce data entry controls to reduce unclassified work orders below the 5% threshold, establishing full visibility over maintenance spend while executing targeted inspection workflows to drive the 22% failure rate down toward zero.
 
-### Specifications
+### Specifications & Methodologies
 
 1. **Data Source**: The dataset covers inspection and maintenance records from 2024 to 2025 across 6 asset ids (equipment). It includes information on maintenance cost, failure mode and corrosion degradation. [View Dataset Folder](https://github.com/kimbryanevangelista/Asset-Integrity-Maintenance-Data-Integration-Pipeline/tree/main/datasets)
 2. **Data Architecture**: Create modern data warehouse using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
